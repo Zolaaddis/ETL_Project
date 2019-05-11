@@ -1,2 +1,0 @@
-# Enter your API key
-yelpkey = "k1ulBR7IlW5kJThWQzl9rEGYKVWeinbkhFXLwtWqkZgTbxWfG_FUxnQ39rZCVEYMHOEkhiETCscUQ6I6kubkeXWgfKtlYyP4qxGq3vun_RjrpgWUJl9xi7RmlIfTXHYx"
