@@ -1,0 +1,727 @@
+{"_id":{"$oid":"5cda1cacfd64d72214bc6036"},"yelp_id":{"$oid":"5cd7107afd64d7121c37ed3d"},"kaggle_id":"AVwc57jLkufWRAb50ROs","restraunt name":"Wendy's","latitude|longitude":"42.37|-83.14"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6037"},"yelp_id":{"$oid":"5cd7107bfd64d7121c37ed3e"},"kaggle_id":"AVwc81QgkufWRAb50vnI","restraunt name":"Burger King","latitude|longitude":"42.42|-83.18"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6038"},"yelp_id":{"$oid":"5cd7107bfd64d7121c37ed3f"},"kaggle_id":"AVweYSpBByjofQCxxr1V","restraunt name":"Checkers","latitude|longitude":"42.91|-85.57"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6039"},"yelp_id":{"$oid":"5cd7107cfd64d7121c37ed40"},"kaggle_id":"AVweGMHhIN2L1WUf184o","restraunt name":"Rally's","latitude|longitude":"39.52|-85.74"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc603a"},"yelp_id":{"$oid":"5cd7107cfd64d7121c37ed41"},"kaggle_id":"AWIUGMchRxPSIh2Rtd6m","restraunt name":"Checkers","latitude|longitude":"42.4|-83.22"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc603b"},"yelp_id":{"$oid":"5cd7107ffd64d7121c37ed46"},"kaggle_id":"AV0aU08W3D1zeR_xEYNP","restraunt name":"Arni's","latitude|longitude":"40.04|-86.9"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc603c"},"yelp_id":{"$oid":"5cd71080fd64d7121c37ed47"},"kaggle_id":"AVweHWoRkufWRAb5AIFf","restraunt name":"Arby's","latitude|longitude":"40.02|-86.9"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc603d"},"yelp_id":{"$oid":"5cd71081fd64d7121c37ed48"},"kaggle_id":"AVwcrMV1kufWRAb5xzet","restraunt name":"Pizza Hut","latitude|longitude":"41.59|-85.86"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc603e"},"yelp_id":{"$oid":"5cd71082fd64d7121c37ed49"},"kaggle_id":"AVwc7vVQIN2L1WUfqe2w","restraunt name":"Taco Bell","latitude|longitude":"42.63|-82.99"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc603f"},"yelp_id":{"$oid":"5cd71082fd64d7121c37ed4a"},"kaggle_id":"AVwc5IfGkufWRAb50I6C","restraunt name":"Taco Bell","latitude|longitude":"42.23|-83.74"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6040"},"yelp_id":{"$oid":"5cd71083fd64d7121c37ed4b"},"kaggle_id":"AVwdAF8kkufWRAb51Rs3","restraunt name":"Dairy Queen","latitude|longitude":"41.58|-87.17"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6041"},"yelp_id":{"$oid":"5cd71083fd64d7121c37ed4c"},"kaggle_id":"AV1bq0iHFcQ3k02bF5ed","restraunt name":"Dairy Queen Windmill","latitude|longitude":"38.04|-87.54"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6042"},"yelp_id":{"$oid":"5cd71084fd64d7121c37ed4d"},"kaggle_id":"AVwc7dfQkufWRAb50hqx","restraunt name":"Dairy Queen","latitude|longitude":"39.76|-86.1"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6043"},"yelp_id":{"$oid":"5cd71084fd64d7121c37ed4e"},"kaggle_id":"AVwc8WsLByjofQCxj4Qr","restraunt name":"Dairy Queen","latitude|longitude":"41.66|-86.13"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6044"},"yelp_id":{"$oid":"5cd71085fd64d7121c37ed4f"},"kaggle_id":"AVwc_UubIN2L1WUfrDsn","restraunt name":"Dairy Queen","latitude|longitude":"37.98|-87.63"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6045"},"yelp_id":{"$oid":"5cd71086fd64d7121c37ed51"},"kaggle_id":"AVwdwo81_7pvs4fz9BH4","restraunt name":"Dairy Queen","latitude|longitude":"38.35|-85.8"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6046"},"yelp_id":{"$oid":"5cd71087fd64d7121c37ed52"},"kaggle_id":"AV12guWE3-Khe5l_PZ-a","restraunt name":"Taco Bell","latitude|longitude":"42.28|-83.36"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6047"},"yelp_id":{"$oid":"5cd71087fd64d7121c37ed53"},"kaggle_id":"AVwcgzYsIN2L1WUflwRc","restraunt name":"Dairy Queen","latitude|longitude":"39.48|-88.36"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6048"},"yelp_id":{"$oid":"5cd71088fd64d7121c37ed54"},"kaggle_id":"AVwclXRy_7pvs4fzwt99","restraunt name":"Dairy Queen","latitude|longitude":"41.95|-87.77"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6049"},"yelp_id":{"$oid":"5cd71089fd64d7121c37ed55"},"kaggle_id":"AVwdihYTkufWRAb5643O","restraunt name":"Dairy Queen Grill & Chill","latitude|longitude":"40.74|-89.03"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc604a"},"yelp_id":{"$oid":"5cd7108dfd64d7121c37ed56"},"kaggle_id":"AVweFLd5kufWRAb5_09Z","restraunt name":"Dairy Queen","latitude|longitude":"40.19|-88.4"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc604b"},"yelp_id":{"$oid":"5cd7108efd64d7121c37ed58"},"kaggle_id":"AV0aR-Vj3D1zeR_xEVYt","restraunt name":"Dairy Queen","latitude|longitude":"40.57|-89.65"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc604c"},"yelp_id":{"$oid":"5cd7108ffd64d7121c37ed59"},"kaggle_id":"AVwd1aaqByjofQCxs7Ib","restraunt name":"Dairy Queen","latitude|longitude":"40.74|-89.6"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc604d"},"yelp_id":{"$oid":"5cd71090fd64d7121c37ed5a"},"kaggle_id":"AV1bq3Ld-gnIPe8DXBXF","restraunt name":"Dairy Queen Grill & Chill","latitude|longitude":"40.01|-89.85"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc604e"},"yelp_id":{"$oid":"5cd71091fd64d7121c37ed5b"},"kaggle_id":"AVwdxTbo_7pvs4fz9HhA","restraunt name":"Dairy Queen Grill & Chill","latitude|longitude":"39.82|-88.88"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc604f"},"yelp_id":{"$oid":"5cd71092fd64d7121c37ed5d"},"kaggle_id":"AV1bq3EGFcQ3k02bF5ii","restraunt name":"Dairy Queen Grill & Chill","latitude|longitude":"40.91|-90.65"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6050"},"yelp_id":{"$oid":"5cd71093fd64d7121c37ed5e"},"kaggle_id":"AVwcjbHxByjofQCxfiqP","restraunt name":"Dairy Queen Grill & Chill","latitude|longitude":"37.74|-88.93"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6051"},"yelp_id":{"$oid":"5cd71093fd64d7121c37ed5f"},"kaggle_id":"AV1tggUF3-Khe5l_OqZf","restraunt name":"Caseys Carry Out Pizza","latitude|longitude":"41.99|-89.58"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6052"},"yelp_id":{"$oid":"5cd71094fd64d7121c37ed60"},"kaggle_id":"AVwdEMPPByjofQCxlJqH","restraunt name":"McDonald's","latitude|longitude":"43.18|-83.89"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6053"},"yelp_id":{"$oid":"5cd71094fd64d7121c37ed61"},"kaggle_id":"AV1c0gyWa4HuVbed5ah8","restraunt name":"Cottage Inn Gourmet Pizza","latitude|longitude":"42.73|-84.48"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6054"},"yelp_id":{"$oid":"5cd71095fd64d7121c37ed62"},"kaggle_id":"AV1c2FVaa4HuVbed5hLG","restraunt name":"Burger King","latitude|longitude":"43.02|-83.52"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6055"},"yelp_id":{"$oid":"5cd71095fd64d7121c37ed63"},"kaggle_id":"AVweL8ArByjofQCxwBup","restraunt name":"Pizza Hut","latitude|longitude":"45.31|-85.26"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6056"},"yelp_id":{"$oid":"5cd71096fd64d7121c37ed64"},"kaggle_id":"AVweUb8x_7pvs4fzB8ow","restraunt name":"Eudici's Pizza","latitude|longitude":"43.42|-84.05"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6057"},"yelp_id":{"$oid":"5cd71097fd64d7121c37ed66"},"kaggle_id":"AVwc3rngIN2L1WUfpyyO","restraunt name":"McDonald's","latitude|longitude":"42.27|-88.85"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6058"},"yelp_id":{"$oid":"5cd71098fd64d7121c37ed67"},"kaggle_id":"AVwckInMkufWRAb5wkxn","restraunt name":"McDonald's","latitude|longitude":"38.62|-89.53"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6059"},"yelp_id":{"$oid":"5cd71098fd64d7121c37ed68"},"kaggle_id":"AV1tfKf8a4HuVbed8LIn","restraunt name":"McDonald's","latitude|longitude":"41.27|-88.21"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc605a"},"yelp_id":{"$oid":"5cd71099fd64d7121c37ed69"},"kaggle_id":"AVwdUke2_7pvs4fz4pfQ","restraunt name":"McDonald's","latitude|longitude":"41.7|-88.07"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc605b"},"yelp_id":{"$oid":"5cd7109afd64d7121c37ed6a"},"kaggle_id":"AVwcy49ekufWRAb5zGfy","restraunt name":"McDonald's","latitude|longitude":"41.16|-87.85"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc605c"},"yelp_id":{"$oid":"5cd7109afd64d7121c37ed6b"},"kaggle_id":"AVwco-hf_7pvs4fzxXM_","restraunt name":"McDonald's","latitude|longitude":"41.16|-87.89"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc605d"},"yelp_id":{"$oid":"5cd7109bfd64d7121c37ed6c"},"kaggle_id":"AVwc3zkrByjofQCxjHAV","restraunt name":"Pizza Hut","latitude|longitude":"42.45|-85.66"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc605e"},"yelp_id":{"$oid":"5cd7109cfd64d7121c37ed6d"},"kaggle_id":"AVwd-htFkufWRAb5-6pX","restraunt name":"McDonald's","latitude|longitude":"41.85|-87.78"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc605f"},"yelp_id":{"$oid":"5cd7109cfd64d7121c37ed6e"},"kaggle_id":"AVwdcozAByjofQCxpOKs","restraunt name":"McDonald's","latitude|longitude":"41.85|-87.8"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6060"},"yelp_id":{"$oid":"5cd7109dfd64d7121c37ed6f"},"kaggle_id":"AVwcq42ekufWRAb5xwC5","restraunt name":"McDonald's","latitude|longitude":"42.24|-88.84"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6061"},"yelp_id":{"$oid":"5cd7109efd64d7121c37ed71"},"kaggle_id":"AVwcgSID_7pvs4fzvyq0","restraunt name":"McDonald's","latitude|longitude":"41.78|-88.32"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6062"},"yelp_id":{"$oid":"5cd7109efd64d7121c37ed72"},"kaggle_id":"AVwduGZRByjofQCxr4EZ","restraunt name":"McDonald's","latitude|longitude":"41.76|-88.21"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6063"},"yelp_id":{"$oid":"5cd7109ffd64d7121c37ed73"},"kaggle_id":"AVweZ_ET_7pvs4fzCr7H","restraunt name":"Arby's","latitude|longitude":"45.04|-83.46"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6064"},"yelp_id":{"$oid":"5cd7109ffd64d7121c37ed75"},"kaggle_id":"AV0V8wpu3D1zeR_xDrlo","restraunt name":"McDonald's","latitude|longitude":"41.2|-90.73"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6065"},"yelp_id":{"$oid":"5cd710a1fd64d7121c37ed78"},"kaggle_id":"AV1dxbggRxPSIh2RZohU","restraunt name":"Burger King","latitude|longitude":"38.59|-89.98"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6066"},"yelp_id":{"$oid":"5cd710a2fd64d7121c37ed79"},"kaggle_id":"AVwdE5QdkufWRAb52ELa","restraunt name":"Burger King","latitude|longitude":"42.24|-88.98"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6067"},"yelp_id":{"$oid":"5cd710a3fd64d7121c37ed7b"},"kaggle_id":"AVwdV4mEByjofQCxoGOa","restraunt name":"Burger King","latitude|longitude":"42.27|-89.08"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6068"},"yelp_id":{"$oid":"5cd710a4fd64d7121c37ed7c"},"kaggle_id":"AV0aIZZv-gnIPe8DVvbq","restraunt name":"Burger King","latitude|longitude":"39.94|-91.36"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6069"},"yelp_id":{"$oid":"5cd710a5fd64d7121c37ed7e"},"kaggle_id":"AV0aRu9G-gnIPe8DV4tF","restraunt name":"Burger King","latitude|longitude":"40.87|-88.66"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc606a"},"yelp_id":{"$oid":"5cd710a6fd64d7121c37ed7f"},"kaggle_id":"AV1c1xJpa4HuVbed5fvh","restraunt name":"Burger King","latitude|longitude":"40.55|-89.61"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc606b"},"yelp_id":{"$oid":"5cd710a7fd64d7121c37ed81"},"kaggle_id":"AVwc-KLWIN2L1WUfq3vZ","restraunt name":"Hardee's","latitude|longitude":"46.55|-87.42"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc606c"},"yelp_id":{"$oid":"5cd710a8fd64d7121c37ed83"},"kaggle_id":"AV1c1okca4HuVbed5fMc","restraunt name":"Burger King","latitude|longitude":"38.41|-87.77"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc606d"},"yelp_id":{"$oid":"5cd710a9fd64d7121c37ed84"},"kaggle_id":"AVwc2yO__7pvs4fzzrjO","restraunt name":"Burger King","latitude|longitude":"41.73|-88.32"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc606e"},"yelp_id":{"$oid":"5cd710a9fd64d7121c37ed85"},"kaggle_id":"AV1c1oK63-Khe5l_L1U_","restraunt name":"Burger King","latitude|longitude":"40.92|-90.65"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc606f"},"yelp_id":{"$oid":"5cd710aafd64d7121c37ed86"},"kaggle_id":"AVwc2PHgkufWRAb5zpOx","restraunt name":"Burger King","latitude|longitude":"41.47|-90.48"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6070"},"yelp_id":{"$oid":"5cd710abfd64d7121c37ed88"},"kaggle_id":"AVzA9ndY-gnIPe8DSfFM","restraunt name":"Burger King","latitude|longitude":"40.68|-89.56"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6071"},"yelp_id":{"$oid":"5cd710abfd64d7121c37ed89"},"kaggle_id":"AVz1UDr9FcQ3k02bDQCP","restraunt name":"Chick-fil-A","latitude|longitude":"40.67|-89.58"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6072"},"yelp_id":{"$oid":"5cd710adfd64d7121c37ed8d"},"kaggle_id":"AV_LFsAtRxPSIh2RnKaJ","restraunt name":"Burger King","latitude|longitude":"41.58|-88.16"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6073"},"yelp_id":{"$oid":"5cd710aefd64d7121c37ed8e"},"kaggle_id":"AVweIX64IN2L1WUf2QKl","restraunt name":"Burger King","latitude|longitude":"42.38|-87.93"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6074"},"yelp_id":{"$oid":"5cd710affd64d7121c37ed8f"},"kaggle_id":"AVwcv0i3ByjofQCxhvMI","restraunt name":"Burger King","latitude|longitude":"42.09|-87.8"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6075"},"yelp_id":{"$oid":"5cd710affd64d7121c37ed90"},"kaggle_id":"AVwdYUUGIN2L1WUfvNE7","restraunt name":"Burger King","latitude|longitude":"38.73|-90.12"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6076"},"yelp_id":{"$oid":"5cd710b0fd64d7121c37ed91"},"kaggle_id":"AVwce9Yo_7pvs4fzvjOy","restraunt name":"Burger King","latitude|longitude":"41.85|-87.75"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6077"},"yelp_id":{"$oid":"5cd710b0fd64d7121c37ed92"},"kaggle_id":"AVwcmw-a_7pvs4fzw-HT","restraunt name":"Chicken Inn","latitude|longitude":"42.02|-87.81"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6078"},"yelp_id":{"$oid":"5cd710b1fd64d7121c37ed93"},"kaggle_id":"AVwdSK_X_7pvs4fz4P9H","restraunt name":"Arby's","latitude|longitude":"41.95|-88.73"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6079"},"yelp_id":{"$oid":"5cd710b2fd64d7121c37ed94"},"kaggle_id":"AVwc8me1IN2L1WUfqoDh","restraunt name":"Culver's","latitude|longitude":"41.72|-87.8"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc607a"},"yelp_id":{"$oid":"5cd710b2fd64d7121c37ed95"},"kaggle_id":"AVwd4iHAByjofQCxtVjo","restraunt name":"Taco Bell","latitude|longitude":"42.46|-83.09"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc607b"},"yelp_id":{"$oid":"5cd710b4fd64d7121c37ed97"},"kaggle_id":"AV0KCv7IFcQ3k02bD19S","restraunt name":"Arby's","latitude|longitude":"43.59|-84.77"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc607c"},"yelp_id":{"$oid":"5cd710b4fd64d7121c37ed98"},"kaggle_id":"AV3iTXbHRxPSIh2ReTqM","restraunt name":"Burger King","latitude|longitude":"39.66|-85.13"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc607d"},"yelp_id":{"$oid":"5cd710b5fd64d7121c37ed99"},"kaggle_id":"AVwdQ-G_IN2L1WUft_aF","restraunt name":"Arby's","latitude|longitude":"42.95|-83.69"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc607e"},"yelp_id":{"$oid":"5cd710b7fd64d7121c37ed9c"},"kaggle_id":"AVwd8sjuByjofQCxt7Pm","restraunt name":"Arby's","latitude|longitude":"43.01|-85.69"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc607f"},"yelp_id":{"$oid":"5cd710b8fd64d7121c37ed9e"},"kaggle_id":"AVwc-WtcByjofQCxkMZ0","restraunt name":"Arby's","latitude|longitude":"42.91|-85.59"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6080"},"yelp_id":{"$oid":"5cd710b8fd64d7121c37ed9f"},"kaggle_id":"AVweFNClkufWRAb5_1IO","restraunt name":"Arby's","latitude|longitude":"42.98|-85.64"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6081"},"yelp_id":{"$oid":"5cd710bafd64d7121c37eda1"},"kaggle_id":"AVwebUDNkufWRAb5CzlU","restraunt name":"Arby's","latitude|longitude":"42.76|-86.12"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6082"},"yelp_id":{"$oid":"5cd710bcfd64d7121c37eda4"},"kaggle_id":"AVwenaHf_7pvs4fzEovB","restraunt name":"Arby's","latitude|longitude":"42.26|-84.42"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6083"},"yelp_id":{"$oid":"5cd710bcfd64d7121c37eda5"},"kaggle_id":"AVwdGu-QkufWRAb52Wen","restraunt name":"Arby's Restaurant","latitude|longitude":"42.45|-85.66"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6084"},"yelp_id":{"$oid":"5cd710bdfd64d7121c37eda6"},"kaggle_id":"AVwdZLAw_7pvs4fz5a3w","restraunt name":"Arby's","latitude|longitude":"42.27|-84.98"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6085"},"yelp_id":{"$oid":"5cd710bdfd64d7121c37eda7"},"kaggle_id":"AVweJtuGByjofQCxvura","restraunt name":"Arby's","latitude|longitude":"42.19|-85.6"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6086"},"yelp_id":{"$oid":"5cd710befd64d7121c37eda8"},"kaggle_id":"AVwdmE8gByjofQCxqqVo","restraunt name":"Arbys","latitude|longitude":"42.26|-85.53"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6087"},"yelp_id":{"$oid":"5cd710befd64d7121c37eda9"},"kaggle_id":"AVwejQreIN2L1WUf5_5E","restraunt name":"Arby's","latitude|longitude":"42.67|-84.54"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6088"},"yelp_id":{"$oid":"5cd710bffd64d7121c37edaa"},"kaggle_id":"AVwdWDrJkufWRAb547Op","restraunt name":"Arby's","latitude|longitude":"42.99|-84.54"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6089"},"yelp_id":{"$oid":"5cd710bffd64d7121c37edab"},"kaggle_id":"AVwdGsZ4kufWRAb52WEq","restraunt name":"Arby's","latitude|longitude":"43.35|-83.87"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc608a"},"yelp_id":{"$oid":"5cd710c0fd64d7121c37edac"},"kaggle_id":"AVweBjFT_7pvs4fz_XRB","restraunt name":"Arby's","latitude|longitude":"43.66|-84.25"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc608b"},"yelp_id":{"$oid":"5cd710c0fd64d7121c37edad"},"kaggle_id":"AVwcwQly_7pvs4fzymnf","restraunt name":"Arby's","latitude|longitude":"44.25|-84.23"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc608c"},"yelp_id":{"$oid":"5cd710c1fd64d7121c37edae"},"kaggle_id":"AVweDWOXIN2L1WUf1kfE","restraunt name":"Arby's","latitude|longitude":"43.84|-84.77"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc608d"},"yelp_id":{"$oid":"5cd710c1fd64d7121c37edaf"},"kaggle_id":"AVwdadBuByjofQCxo2nS","restraunt name":"Arby's","latitude|longitude":"44.3|-84.71"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc608e"},"yelp_id":{"$oid":"5cd710c2fd64d7121c37edb0"},"kaggle_id":"AVwdErDcByjofQCxlOpy","restraunt name":"Arby's","latitude|longitude":"43.04|-83.32"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc608f"},"yelp_id":{"$oid":"5cd710c2fd64d7121c37edb1"},"kaggle_id":"AVwc8AlPByjofQCxj0gR","restraunt name":"Arby's","latitude|longitude":"43.02|-83.52"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6090"},"yelp_id":{"$oid":"5cd710c3fd64d7121c37edb2"},"kaggle_id":"AVwdHWhHByjofQCxlpto","restraunt name":"Arby's Restauraunt","latitude|longitude":"42.89|-83.63"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6091"},"yelp_id":{"$oid":"5cd710c3fd64d7121c37edb3"},"kaggle_id":"AVwc34WdIN2L1WUfp053","restraunt name":"Burger King","latitude|longitude":"39.14|-88.57"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6092"},"yelp_id":{"$oid":"5cd710c4fd64d7121c37edb4"},"kaggle_id":"AVwd03vb_7pvs4fz9m9y","restraunt name":"Arby's","latitude|longitude":"39.14|-88.57"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6093"},"yelp_id":{"$oid":"5cd710c5fd64d7121c37edb5"},"kaggle_id":"AVz1efglFcQ3k02bDQLA","restraunt name":"Arby's","latitude|longitude":"42.5|-83.36"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6094"},"yelp_id":{"$oid":"5cd710c5fd64d7121c37edb6"},"kaggle_id":"AV12YllvIxWefVJwhWUL","restraunt name":"Hardee's","latitude|longitude":"41.17|-85.49"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6095"},"yelp_id":{"$oid":"5cd710c6fd64d7121c37edb7"},"kaggle_id":"AVwcu29TByjofQCxhkY9","restraunt name":"Hardee's","latitude|longitude":"39.83|-89.63"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6096"},"yelp_id":{"$oid":"5cd710c6fd64d7121c37edb8"},"kaggle_id":"AV1XW308-gnIPe8DWvai","restraunt name":"Hardee's","latitude|longitude":"41.78|-89.69"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6097"},"yelp_id":{"$oid":"5cd710c9fd64d7121c37edbc"},"kaggle_id":"AV0aQq-fFcQ3k02bEwRt","restraunt name":"Hardee's","latitude|longitude":"41.84|-89.48"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6098"},"yelp_id":{"$oid":"5cd710c9fd64d7121c37edbd"},"kaggle_id":"AVwc67EGkufWRAb50b2F","restraunt name":"Hardee's","latitude|longitude":"39.85|-88.97"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc6099"},"yelp_id":{"$oid":"5cd710c9fd64d7121c37edbe"},"kaggle_id":"AVz1edSvFcQ3k02bDQKx","restraunt name":"Arby's","latitude|longitude":"42.63|-82.91"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc609a"},"yelp_id":{"$oid":"5cd710cafd64d7121c37edbf"},"kaggle_id":"AVwctFwjByjofQCxhQ4O","restraunt name":"Taco Bell","latitude|longitude":"41.57|-87.64"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc609b"},"yelp_id":{"$oid":"5cd710cafd64d7121c37edc0"},"kaggle_id":"AVz7pLbt3D1zeR_xDIfJ","restraunt name":"Taco Bell","latitude|longitude":"42.38|-88.09"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc609c"},"yelp_id":{"$oid":"5cd710cbfd64d7121c37edc1"},"kaggle_id":"AVwdgmRHIN2L1WUfwhRc","restraunt name":"Taco Bell","latitude|longitude":"42.24|-88.98"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc609d"},"yelp_id":{"$oid":"5cd710ccfd64d7121c37edc2"},"kaggle_id":"AVwcmWDxByjofQCxgFaC","restraunt name":"Taco Bell","latitude|longitude":"42.48|-88.31"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc609e"},"yelp_id":{"$oid":"5cd710ccfd64d7121c37edc3"},"kaggle_id":"AVwdhp45kufWRAb56wme","restraunt name":"Taco Bell","latitude|longitude":"41.37|-89.13"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc609f"},"yelp_id":{"$oid":"5cd710cdfd64d7121c37edc4"},"kaggle_id":"AVzBCveY3D1zeR_xBFmL","restraunt name":"Taco Bell","latitude|longitude":"40.73|-89.63"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc60a0"},"yelp_id":{"$oid":"5cd710cdfd64d7121c37edc5"},"kaggle_id":"AVwdWS8bkufWRAb5494k","restraunt name":"Taco Bell","latitude|longitude":"41.69|-87.81"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc60a1"},"yelp_id":{"$oid":"5cd710cefd64d7121c37edc6"},"kaggle_id":"AV1l0j94IxWefVJwgdFk","restraunt name":"Taco Bell","latitude|longitude":"40.56|-89.62"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc60a2"},"yelp_id":{"$oid":"5cd710cffd64d7121c37edc7"},"kaggle_id":"AVwcgx69kufWRAb5v9eB","restraunt name":"Taco Bell","latitude|longitude":"42.32|-87.87"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc60a3"},"yelp_id":{"$oid":"5cd710d0fd64d7121c37edc8"},"kaggle_id":"AVwckYan_7pvs4fzwjBH","restraunt name":"Taco Bell","latitude|longitude":"40.51|-88.96"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc60a4"},"yelp_id":{"$oid":"5cd710d0fd64d7121c37edc9"},"kaggle_id":"AVwcnBpg_7pvs4fzxBNk","restraunt name":"Taco Bell","latitude|longitude":"42.02|-87.81"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc60a5"},"yelp_id":{"$oid":"5cd710d1fd64d7121c37edcb"},"kaggle_id":"AVwc3A_bIN2L1WUfprfH","restraunt name":"Taco Bell","latitude|longitude":"41.72|-88.32"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc60a6"},"yelp_id":{"$oid":"5cd710d2fd64d7121c37edcc"},"kaggle_id":"AVwc3CUb_7pvs4fzzuQj","restraunt name":"Taco Bell","latitude|longitude":"41.47|-90.51"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc60a7"},"yelp_id":{"$oid":"5cd710d2fd64d7121c37edcd"},"kaggle_id":"AVwdQUODByjofQCxnK0B","restraunt name":"Taco Bell","latitude|longitude":"41.58|-88.17"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc60a8"},"yelp_id":{"$oid":"5cd710d3fd64d7121c37edcf"},"kaggle_id":"AVwce50c_7pvs4fzvicj","restraunt name":"Taco Bell","latitude|longitude":"42.27|-89.63"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc60a9"},"yelp_id":{"$oid":"5cd710d4fd64d7121c37edd0"},"kaggle_id":"AVzBEe-u-gnIPe8DSjHD","restraunt name":"Taco Bell","latitude|longitude":"42.84|-85.62"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc60aa"},"yelp_id":{"$oid":"5cd710d5fd64d7121c37edd1"},"kaggle_id":"AVwd_5hF_7pvs4fz_IZc","restraunt name":"Taco Bell","latitude|longitude":"40.12|-88.22"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc60ab"},"yelp_id":{"$oid":"5cd710d5fd64d7121c37edd2"},"kaggle_id":"AVwcx2wdkufWRAb5y7k2","restraunt name":"Burger King","latitude|longitude":"42.26|-83.24"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc60ac"},"yelp_id":{"$oid":"5cd710d6fd64d7121c37edd3"},"kaggle_id":"AVwcvB9A_7pvs4fzyY4P","restraunt name":"Burger King","latitude|longitude":"42.21|-83.23"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc60ad"},"yelp_id":{"$oid":"5cd710d8fd64d7121c37edd6"},"kaggle_id":"AVwd_FogIN2L1WUf0-X4","restraunt name":"Burger King","latitude|longitude":"42.3|-83.28"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc60ae"},"yelp_id":{"$oid":"5cd710d8fd64d7121c37edd7"},"kaggle_id":"AV1h4psia4HuVbed7iG9","restraunt name":"Burger King","latitude|longitude":"42.28|-83.84"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc60af"},"yelp_id":{"$oid":"5cd710d9fd64d7121c37edd8"},"kaggle_id":"AVzxmzsNFcQ3k02bDKXL","restraunt name":"Burger King","latitude|longitude":"42.47|-82.91"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc60b0"},"yelp_id":{"$oid":"5cd710dafd64d7121c37edd9"},"kaggle_id":"AVweCTkokufWRAb5_b6c","restraunt name":"Burger King","latitude|longitude":"42.99|-83.65"}
+{"_id":{"$oid":"5cda1cacfd64d72214bc60b1"},"yelp_id":{"$oid":"5cd710dbfd64d7121c37eddb"},"kaggle_id":"AVwegF8AkufWRAb5DhQu","restraunt name":"Burger King","latitude|longitude":"42.63|-83.75"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60b2"},"yelp_id":{"$oid":"5cd710dbfd64d7121c37eddc"},"kaggle_id":"AVwcmncNIN2L1WUfm1cS","restraunt name":"Burger King","latitude|longitude":"42.69|-83.39"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60b3"},"yelp_id":{"$oid":"5cd710dcfd64d7121c37eddd"},"kaggle_id":"AVwdmPMV_7pvs4fz7dQM","restraunt name":"Jersey Mike's Subs","latitude|longitude":"41.7|-88.31"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60b4"},"yelp_id":{"$oid":"5cd710ddfd64d7121c37eddf"},"kaggle_id":"AVweJAbx_7pvs4fzAZAY","restraunt name":"Arby's","latitude|longitude":"40.94|-87.22"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60b5"},"yelp_id":{"$oid":"5cd710defd64d7121c37ede1"},"kaggle_id":"AVzwEJ56-gnIPe8DURDz","restraunt name":"Arby's","latitude|longitude":"42.44|-83.76"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60b6"},"yelp_id":{"$oid":"5cd710defd64d7121c37ede2"},"kaggle_id":"AVwchzNiByjofQCxfOtx","restraunt name":"Roma's Pizza","latitude|longitude":"38.9|-90.04"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60b7"},"yelp_id":{"$oid":"5cd710dffd64d7121c37ede3"},"kaggle_id":"AV5aKlB43-Khe5l_Vl38","restraunt name":"Bob Evans","latitude|longitude":"41.17|-85.49"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60b8"},"yelp_id":{"$oid":"5cd710e0fd64d7121c37ede4"},"kaggle_id":"AV0aVQZyLD2H7whiZfui","restraunt name":"McDonald's","latitude|longitude":"38.98|-89.1"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60b9"},"yelp_id":{"$oid":"5cd710e0fd64d7121c37ede5"},"kaggle_id":"AVwco7ZqIN2L1WUfnP01","restraunt name":"McDonald's","latitude|longitude":"40.12|-88.2"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60ba"},"yelp_id":{"$oid":"5cd710e1fd64d7121c37ede6"},"kaggle_id":"AV1gTcKk3-Khe5l_NRVP","restraunt name":"McDonald's","latitude|longitude":"39.55|-89.3"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60bb"},"yelp_id":{"$oid":"5cd710e2fd64d7121c37ede7"},"kaggle_id":"AVwefrAKByjofQCxyvzw","restraunt name":"McDonald's","latitude|longitude":"39.6|-88.61"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60bc"},"yelp_id":{"$oid":"5cd710e2fd64d7121c37ede8"},"kaggle_id":"AV53e2oia4HuVbedEdkG","restraunt name":"Panera Bread","latitude|longitude":"42.71|-83.31"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60bd"},"yelp_id":{"$oid":"5cd710e3fd64d7121c37edea"},"kaggle_id":"AVwdevpzIN2L1WUfwPI-","restraunt name":"Taco Bell","latitude|longitude":"37.73|-88.54"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60be"},"yelp_id":{"$oid":"5cd710e5fd64d7121c37eded"},"kaggle_id":"AVwdY4j2ByjofQCxomRW","restraunt name":"Jimmy John's","latitude|longitude":"41.93|-87.65"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60bf"},"yelp_id":{"$oid":"5cd710e6fd64d7121c37edef"},"kaggle_id":"AVwdTV08_7pvs4fz4cwI","restraunt name":"Gus's Carryout","latitude|longitude":"42.61|-83.93"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60c0"},"yelp_id":{"$oid":"5cd710e6fd64d7121c37edf0"},"kaggle_id":"AVwckJty_7pvs4fzwgbX","restraunt name":"Siam Fusion","latitude|longitude":"42.65|-83.52"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60c1"},"yelp_id":{"$oid":"5cd710e7fd64d7121c37edf1"},"kaggle_id":"AVwdJT2tIN2L1WUfsq0K","restraunt name":"Subway","latitude|longitude":"39.72|-86.1"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60c2"},"yelp_id":{"$oid":"5cd710e7fd64d7121c37edf2"},"kaggle_id":"AV0aV1GCLD2H7whiZgF7","restraunt name":"Subway","latitude|longitude":"38.41|-86.94"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60c3"},"yelp_id":{"$oid":"5cd710e8fd64d7121c37edf3"},"kaggle_id":"AVweWgGu_7pvs4fzCOYT","restraunt name":"Jimmy John's","latitude|longitude":"42.26|-85.59"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60c4"},"yelp_id":{"$oid":"5cd710e9fd64d7121c37edf5"},"kaggle_id":"AVzX2fRjLD2H7whiWo0g","restraunt name":"Pizza Hut","latitude|longitude":"42.89|-85.63"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60c5"},"yelp_id":{"$oid":"5cd710e9fd64d7121c37edf6"},"kaggle_id":"AV1duvgHa4HuVbed6ZsZ","restraunt name":"Pizza Hut","latitude|longitude":"42.91|-85.51"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60c6"},"yelp_id":{"$oid":"5cd710ecfd64d7121c37edfb"},"kaggle_id":"AVwdVK87kufWRAb54xlJ","restraunt name":"Dairy Queen","latitude|longitude":"41.71|-85.97"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60c7"},"yelp_id":{"$oid":"5cd710edfd64d7121c37edfc"},"kaggle_id":"AVwdNrCBIN2L1WUftZ5a","restraunt name":"Dairy Queen Grill & Chill","latitude|longitude":"41.04|-86.6"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60c8"},"yelp_id":{"$oid":"5cd710eefd64d7121c37edfd"},"kaggle_id":"AVwcvFaxIN2L1WUfoT33","restraunt name":"McDonald's","latitude|longitude":"42.97|-85.92"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60c9"},"yelp_id":{"$oid":"5cd710eefd64d7121c37edfe"},"kaggle_id":"AVwc8s05_7pvs4fz0q8p","restraunt name":"McDonald's","latitude|longitude":"42.32|-83.11"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60ca"},"yelp_id":{"$oid":"5cd710effd64d7121c37edff"},"kaggle_id":"AVwcw6RNByjofQCxh7Z1","restraunt name":"McDonald's","latitude|longitude":"42.71|-83.04"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60cb"},"yelp_id":{"$oid":"5cd710f0fd64d7121c37ee01"},"kaggle_id":"AVwdWmSnIN2L1WUfu7QS","restraunt name":"McDonald's","latitude|longitude":"42.72|-83.38"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60cc"},"yelp_id":{"$oid":"5cd710f0fd64d7121c37ee02"},"kaggle_id":"AVwdu8J6ByjofQCxr_n9","restraunt name":"McDonald's","latitude|longitude":"43.02|-83.6"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60cd"},"yelp_id":{"$oid":"5cd710f1fd64d7121c37ee03"},"kaggle_id":"AVwc4HfdByjofQCxjJ9l","restraunt name":"McDonald's","latitude|longitude":"42.32|-85.52"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60ce"},"yelp_id":{"$oid":"5cd710f2fd64d7121c37ee04"},"kaggle_id":"AVwdmf5-IN2L1WUfxbty","restraunt name":"McDonald's","latitude|longitude":"42.68|-83.28"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60cf"},"yelp_id":{"$oid":"5cd710f3fd64d7121c37ee06"},"kaggle_id":"AVweawtTIN2L1WUf4u1e","restraunt name":"McDonald's","latitude|longitude":"42.77|-84.6"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60d0"},"yelp_id":{"$oid":"5cd710f3fd64d7121c37ee07"},"kaggle_id":"AVzBD0sKLD2H7whiWLeC","restraunt name":"McDonald's","latitude|longitude":"42.84|-85.68"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60d1"},"yelp_id":{"$oid":"5cd710f4fd64d7121c37ee08"},"kaggle_id":"AVwcsJ8Q_7pvs4fzx6Nh","restraunt name":"McDonald's","latitude|longitude":"43.34|-83.74"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60d2"},"yelp_id":{"$oid":"5cd710f5fd64d7121c37ee09"},"kaggle_id":"AVwdiGcWByjofQCxqCmv","restraunt name":"McDonald's","latitude|longitude":"43.6|-84.09"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60d3"},"yelp_id":{"$oid":"5cd710f6fd64d7121c37ee0a"},"kaggle_id":"AVwcphZvByjofQCxgphT","restraunt name":"McDonald's","latitude|longitude":"43.03|-85.63"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60d4"},"yelp_id":{"$oid":"5cd710f7fd64d7121c37ee0c"},"kaggle_id":"AVweDOiukufWRAb5_kXB","restraunt name":"McDonald's","latitude|longitude":"42.85|-85.86"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60d5"},"yelp_id":{"$oid":"5cd710f8fd64d7121c37ee0d"},"kaggle_id":"AVwc95eBIN2L1WUfq1K0","restraunt name":"McDonald's","latitude|longitude":"42.27|-85.64"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60d6"},"yelp_id":{"$oid":"5cd710f8fd64d7121c37ee0e"},"kaggle_id":"AVzBD6P3-gnIPe8DSi1M","restraunt name":"McDonald's","latitude|longitude":"42.97|-85.77"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60d7"},"yelp_id":{"$oid":"5cd710f9fd64d7121c37ee0f"},"kaggle_id":"AVwdMTmcByjofQCxmeil","restraunt name":"McDonald's","latitude|longitude":"42.54|-83.07"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60d8"},"yelp_id":{"$oid":"5cd710fafd64d7121c37ee10"},"kaggle_id":"AVwdbu7c_7pvs4fz52cs","restraunt name":"McDonald's","latitude|longitude":"42.22|-83.18"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60d9"},"yelp_id":{"$oid":"5cd710fafd64d7121c37ee11"},"kaggle_id":"AVwc984z_7pvs4fz03bC","restraunt name":"McDonald's","latitude|longitude":"43.03|-83.64"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60da"},"yelp_id":{"$oid":"5cd710fbfd64d7121c37ee12"},"kaggle_id":"AVzA9147-gnIPe8DSfSH","restraunt name":"McDonald's","latitude|longitude":"42.91|-85.66"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60db"},"yelp_id":{"$oid":"5cd710fcfd64d7121c37ee13"},"kaggle_id":"AV1h4vlyIxWefVJwgLAq","restraunt name":"McDonald's","latitude|longitude":"43.06|-83.76"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60dc"},"yelp_id":{"$oid":"5cd710fcfd64d7121c37ee14"},"kaggle_id":"AVwcj-LRIN2L1WUfmWBh","restraunt name":"McDonald's","latitude|longitude":"43.22|-85.57"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60dd"},"yelp_id":{"$oid":"5cd710fdfd64d7121c37ee15"},"kaggle_id":"AVwd-mWkIN2L1WUf06Hu","restraunt name":"McDonald's","latitude|longitude":"42.4|-83.44"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60de"},"yelp_id":{"$oid":"5cd710fdfd64d7121c37ee16"},"kaggle_id":"AVwcgqSJ_7pvs4fzv3Ip","restraunt name":"McDonald's","latitude|longitude":"45.79|-87.92"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60df"},"yelp_id":{"$oid":"5cd710fefd64d7121c37ee17"},"kaggle_id":"AVwdAcsIkufWRAb51U_Y","restraunt name":"McDonald's","latitude|longitude":"42.7|-83.31"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60e0"},"yelp_id":{"$oid":"5cd710fefd64d7121c37ee18"},"kaggle_id":"AVwc5b7nkufWRAb50L9M","restraunt name":"McDonald's","latitude|longitude":"42.25|-85.53"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60e1"},"yelp_id":{"$oid":"5cd710fffd64d7121c37ee19"},"kaggle_id":"AVwdYwy2_7pvs4fz5WXy","restraunt name":"McDonald's","latitude|longitude":"43.03|-85.69"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60e2"},"yelp_id":{"$oid":"5cd71100fd64d7121c37ee1b"},"kaggle_id":"AVzxrPqb3D1zeR_xC1Wh","restraunt name":"McDonald's","latitude|longitude":"42.14|-83.21"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60e3"},"yelp_id":{"$oid":"5cd71101fd64d7121c37ee1c"},"kaggle_id":"AVweML1hIN2L1WUf2xso","restraunt name":"McDonald's","latitude|longitude":"41.92|-85.51"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60e4"},"yelp_id":{"$oid":"5cd71101fd64d7121c37ee1d"},"kaggle_id":"AVwc0xmoIN2L1WUfpToy","restraunt name":"McDonald's","latitude|longitude":"42.52|-83.18"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60e5"},"yelp_id":{"$oid":"5cd71102fd64d7121c37ee1e"},"kaggle_id":"AVwdJJI2_7pvs4fz2sIn","restraunt name":"McDonald's","latitude|longitude":"42.53|-83.18"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60e6"},"yelp_id":{"$oid":"5cd71102fd64d7121c37ee1f"},"kaggle_id":"AVwdkqMzIN2L1WUfxJCA","restraunt name":"McDonald's","latitude|longitude":"43.48|-83.97"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60e7"},"yelp_id":{"$oid":"5cd71103fd64d7121c37ee20"},"kaggle_id":"AVwdpEyd_7pvs4fz75Ph","restraunt name":"McDonald's","latitude|longitude":"42.66|-84.59"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60e8"},"yelp_id":{"$oid":"5cd71107fd64d7121c37ee21"},"kaggle_id":"AVwcuC--ByjofQCxhbcA","restraunt name":"McDonald's","latitude|longitude":"42.2|-83.3"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60e9"},"yelp_id":{"$oid":"5cd71108fd64d7121c37ee22"},"kaggle_id":"AVwcg-w-ByjofQCxfFH4","restraunt name":"McDonald's","latitude|longitude":"42.91|-85.73"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60ea"},"yelp_id":{"$oid":"5cd71108fd64d7121c37ee23"},"kaggle_id":"AVwdj2z2kufWRAb57F6a","restraunt name":"McDonald's","latitude|longitude":"43.01|-85.69"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60eb"},"yelp_id":{"$oid":"5cd71109fd64d7121c37ee24"},"kaggle_id":"AVwcrQQYIN2L1WUfnpyB","restraunt name":"McDonald's","latitude|longitude":"42.2|-83.26"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60ec"},"yelp_id":{"$oid":"5cd71109fd64d7121c37ee25"},"kaggle_id":"AVwcx7aX_7pvs4fzy4y8","restraunt name":"McDonald's","latitude|longitude":"44.73|-85.62"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60ed"},"yelp_id":{"$oid":"5cd7110afd64d7121c37ee26"},"kaggle_id":"AVzoGQi5LD2H7whiXjrm","restraunt name":"McDonald's","latitude|longitude":"42.47|-82.9"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60ee"},"yelp_id":{"$oid":"5cd7110afd64d7121c37ee27"},"kaggle_id":"AV0HmFaTFcQ3k02bDnBi","restraunt name":"McDonald's","latitude|longitude":"42.14|-83.25"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60ef"},"yelp_id":{"$oid":"5cd7110bfd64d7121c37ee28"},"kaggle_id":"AVwdUGBkByjofQCxnzC0","restraunt name":"McDonald's","latitude|longitude":"42.61|-83.33"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60f0"},"yelp_id":{"$oid":"5cd7110bfd64d7121c37ee29"},"kaggle_id":"AVwcyfkyIN2L1WUfo55-","restraunt name":"McDonald's","latitude|longitude":"42.61|-83.96"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60f1"},"yelp_id":{"$oid":"5cd7110cfd64d7121c37ee2a"},"kaggle_id":"AVwejLL7IN2L1WUf5_Jf","restraunt name":"Subway","latitude|longitude":"41.89|-87.63"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60f2"},"yelp_id":{"$oid":"5cd7110cfd64d7121c37ee2b"},"kaggle_id":"AV1TsHBZ3D1zeR_xFFGA","restraunt name":"Subway","latitude|longitude":"41.79|-87.7"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60f3"},"yelp_id":{"$oid":"5cd7110dfd64d7121c37ee2c"},"kaggle_id":"AVwdC1He_7pvs4fz1q5V","restraunt name":"Subway","latitude|longitude":"41.95|-87.68"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60f4"},"yelp_id":{"$oid":"5cd7110efd64d7121c37ee2d"},"kaggle_id":"AVwdE78FByjofQCxlRcs","restraunt name":"Subway","latitude|longitude":"42.0|-87.7"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60f5"},"yelp_id":{"$oid":"5cd7110ffd64d7121c37ee30"},"kaggle_id":"AVwcwgtokufWRAb5ytCE","restraunt name":"New Chalet Restaurant","latitude|longitude":"41.34|-88.84"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60f6"},"yelp_id":{"$oid":"5cd71110fd64d7121c37ee31"},"kaggle_id":"AVweEHMVIN2L1WUf1rA7","restraunt name":"Pizza Hut","latitude|longitude":"39.01|-85.64"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60f7"},"yelp_id":{"$oid":"5cd71111fd64d7121c37ee32"},"kaggle_id":"AV0aTscLLD2H7whiZeoD","restraunt name":"Pizza Hut","latitude|longitude":"40.45|-86.91"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60f8"},"yelp_id":{"$oid":"5cd71111fd64d7121c37ee33"},"kaggle_id":"AVwdXIlUIN2L1WUfvBAM","restraunt name":"Pizza Hut","latitude|longitude":"40.54|-85.67"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60f9"},"yelp_id":{"$oid":"5cd71113fd64d7121c37ee35"},"kaggle_id":"AV1XWw6tLD2H7whiaRPX","restraunt name":"Pizza Hut","latitude|longitude":"40.17|-85.38"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60fa"},"yelp_id":{"$oid":"5cd71113fd64d7121c37ee36"},"kaggle_id":"AVwdBbXC_7pvs4fz1cKH","restraunt name":"Pizza Hut","latitude|longitude":"39.17|-86.57"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60fb"},"yelp_id":{"$oid":"5cd71114fd64d7121c37ee37"},"kaggle_id":"AVweLw7aIN2L1WUf2uDn","restraunt name":"Pizza Hut","latitude|longitude":"39.64|-86.33"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60fc"},"yelp_id":{"$oid":"5cd71115fd64d7121c37ee38"},"kaggle_id":"AVzxpTEM3D1zeR_xCzDX","restraunt name":"Pizza Hut","latitude|longitude":"39.49|-86.06"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60fd"},"yelp_id":{"$oid":"5cd71116fd64d7121c37ee3a"},"kaggle_id":"AV9J2tyhRxPSIh2RlwXH","restraunt name":"Subway","latitude|longitude":"39.76|-86.23"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60fe"},"yelp_id":{"$oid":"5cd71116fd64d7121c37ee3b"},"kaggle_id":"AVweECcDByjofQCxu8qF","restraunt name":"Subway","latitude|longitude":"39.78|-86.06"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc60ff"},"yelp_id":{"$oid":"5cd71116fd64d7121c37ee3c"},"kaggle_id":"AVwdazJYByjofQCxo6Tl","restraunt name":"Subway","latitude|longitude":"39.71|-86.14"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6100"},"yelp_id":{"$oid":"5cd71117fd64d7121c37ee3d"},"kaggle_id":"AVwdnJ0AByjofQCxq1Tj","restraunt name":"Taco Bell","latitude|longitude":"42.74|-84.61"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6101"},"yelp_id":{"$oid":"5cd71118fd64d7121c37ee3e"},"kaggle_id":"AV1tiGKvRxPSIh2Rbgez","restraunt name":"Taco Bell","latitude|longitude":"39.69|-86.15"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6102"},"yelp_id":{"$oid":"5cd71118fd64d7121c37ee3f"},"kaggle_id":"AV1XXB2O-gnIPe8DWwoV","restraunt name":"Taco Bell","latitude|longitude":"41.62|-87.04"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6103"},"yelp_id":{"$oid":"5cd71119fd64d7121c37ee40"},"kaggle_id":"AV57lKAnIxWefVJwp_mz","restraunt name":"Taco Bell","latitude|longitude":"43.05|-85.58"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6104"},"yelp_id":{"$oid":"5cd71119fd64d7121c37ee41"},"kaggle_id":"AVwcevdW_7pvs4fzvgn1","restraunt name":"Taco Bell","latitude|longitude":"43.44|-84.02"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6105"},"yelp_id":{"$oid":"5cd7111afd64d7121c37ee42"},"kaggle_id":"AV12ZqT2a4HuVbed8xY0","restraunt name":"Taco Bell","latitude|longitude":"38.21|-86.86"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6106"},"yelp_id":{"$oid":"5cd7111bfd64d7121c37ee44"},"kaggle_id":"AVwciXtZByjofQCxfVwi","restraunt name":"Taco Bell","latitude|longitude":"39.87|-86.12"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6107"},"yelp_id":{"$oid":"5cd7111bfd64d7121c37ee45"},"kaggle_id":"AVwdDK98kufWRAb51xd1","restraunt name":"Taco Bell","latitude|longitude":"40.48|-85.55"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6108"},"yelp_id":{"$oid":"5cd7111cfd64d7121c37ee46"},"kaggle_id":"AV1l0dasa4HuVbed7y2L","restraunt name":"Taco Bell","latitude|longitude":"40.75|-85.17"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6109"},"yelp_id":{"$oid":"5cd7111cfd64d7121c37ee47"},"kaggle_id":"AVzBC3MBLD2H7whiWLCp","restraunt name":"Jimmy John's","latitude|longitude":"42.04|-87.94"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc610a"},"yelp_id":{"$oid":"5cd7111dfd64d7121c37ee48"},"kaggle_id":"AVwc6q3qByjofQCxjmKQ","restraunt name":"Jimmy John's","latitude|longitude":"42.22|-88.26"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc610b"},"yelp_id":{"$oid":"5cd7111efd64d7121c37ee49"},"kaggle_id":"AVwdJZkh_7pvs4fz2u7b","restraunt name":"Jimmy John's","latitude|longitude":"42.96|-85.67"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc610c"},"yelp_id":{"$oid":"5cd7111ffd64d7121c37ee4b"},"kaggle_id":"AVwc4FYyByjofQCxjJov","restraunt name":"Subway","latitude|longitude":"39.7|-86.08"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc610d"},"yelp_id":{"$oid":"5cd7111ffd64d7121c37ee4c"},"kaggle_id":"AVwcibFjByjofQCxfWai","restraunt name":"Subway","latitude|longitude":"39.65|-86.14"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc610e"},"yelp_id":{"$oid":"5cd71120fd64d7121c37ee4e"},"kaggle_id":"AVwdFsQcByjofQCxlYh6","restraunt name":"Subway","latitude|longitude":"42.3|-85.21"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc610f"},"yelp_id":{"$oid":"5cd71121fd64d7121c37ee4f"},"kaggle_id":"AVwdjrd7_7pvs4fz7EBJ","restraunt name":"Subway","latitude|longitude":"42.27|-83.49"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6110"},"yelp_id":{"$oid":"5cd71121fd64d7121c37ee50"},"kaggle_id":"AVwdZFByIN2L1WUfvVXy","restraunt name":"Subway","latitude|longitude":"41.91|-87.9"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6111"},"yelp_id":{"$oid":"5cd71123fd64d7121c37ee53"},"kaggle_id":"AVwdv5Wn_7pvs4fz86Ho","restraunt name":"Taco Bob's","latitude|longitude":"42.28|-85.59"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6112"},"yelp_id":{"$oid":"5cd71124fd64d7121c37ee54"},"kaggle_id":"AVwchzNKIN2L1WUfl7pt","restraunt name":"Jimmy John's","latitude|longitude":"41.63|-86.23"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6113"},"yelp_id":{"$oid":"5cd71124fd64d7121c37ee55"},"kaggle_id":"AVwdugJbByjofQCxr7lL","restraunt name":"Jimmy John's","latitude|longitude":"41.94|-87.66"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6114"},"yelp_id":{"$oid":"5cd71125fd64d7121c37ee56"},"kaggle_id":"AVweHMVX_7pvs4fzAJPt","restraunt name":"Jimmy John's","latitude|longitude":"41.87|-87.62"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6115"},"yelp_id":{"$oid":"5cd71125fd64d7121c37ee57"},"kaggle_id":"AVweC9cW_7pvs4fz_kdu","restraunt name":"Jimmy John's","latitude|longitude":"41.92|-87.66"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6116"},"yelp_id":{"$oid":"5cd71126fd64d7121c37ee58"},"kaggle_id":"AVwcig1BIN2L1WUfmEVt","restraunt name":"Jimmy John's","latitude|longitude":"41.8|-87.59"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6117"},"yelp_id":{"$oid":"5cd71127fd64d7121c37ee5a"},"kaggle_id":"AVwc1s3KByjofQCxiwHS","restraunt name":"Jimmy John's","latitude|longitude":"41.81|-88.04"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6118"},"yelp_id":{"$oid":"5cd71128fd64d7121c37ee5b"},"kaggle_id":"AVweA8qF_7pvs4fz_Rz5","restraunt name":"Jimmy John's","latitude|longitude":"41.5|-88.17"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6119"},"yelp_id":{"$oid":"5cd71129fd64d7121c37ee5d"},"kaggle_id":"AVwd8WDEIN2L1WUf0ljY","restraunt name":"Jimmy John's","latitude|longitude":"41.75|-87.8"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc611a"},"yelp_id":{"$oid":"5cd71129fd64d7121c37ee5e"},"kaggle_id":"AVwd20kIByjofQCxtG3L","restraunt name":"Jimmy John's","latitude|longitude":"41.98|-88.7"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc611b"},"yelp_id":{"$oid":"5cd7112afd64d7121c37ee5f"},"kaggle_id":"AV0aRs3nLD2H7whiZcq_","restraunt name":"Domino's Pizza","latitude|longitude":"38.52|-89.13"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc611c"},"yelp_id":{"$oid":"5cd7112bfd64d7121c37ee61"},"kaggle_id":"AVwdGfd0kufWRAb52UIW","restraunt name":"White Castle","latitude|longitude":"42.26|-83.25"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc611d"},"yelp_id":{"$oid":"5cd7112cfd64d7121c37ee62"},"kaggle_id":"AVz5xoAG3D1zeR_xDF9R","restraunt name":"White Castle","latitude|longitude":"39.49|-86.06"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc611e"},"yelp_id":{"$oid":"5cd7112cfd64d7121c37ee63"},"kaggle_id":"AVwdFgzQ_7pvs4fz2HNz","restraunt name":"White Castle","latitude|longitude":"39.69|-86.19"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc611f"},"yelp_id":{"$oid":"5cd7112dfd64d7121c37ee64"},"kaggle_id":"AVwchcgQ_7pvs4fzwAfd","restraunt name":"White Castle","latitude|longitude":"39.77|-86.11"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6120"},"yelp_id":{"$oid":"5cd7112efd64d7121c37ee65"},"kaggle_id":"AVweRxcbByjofQCxwz98","restraunt name":"White Castle","latitude|longitude":"39.79|-86.16"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6121"},"yelp_id":{"$oid":"5cd7112efd64d7121c37ee66"},"kaggle_id":"AVwdNqUcByjofQCxmso7","restraunt name":"White Castle","latitude|longitude":"41.85|-87.74"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6122"},"yelp_id":{"$oid":"5cd7112ffd64d7121c37ee67"},"kaggle_id":"AVwdIARqkufWRAb52jQ3","restraunt name":"White Castle","latitude|longitude":"42.05|-88.11"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6123"},"yelp_id":{"$oid":"5cd71130fd64d7121c37ee69"},"kaggle_id":"AVwd2S4EIN2L1WUfzv-z","restraunt name":"Bob Evans","latitude|longitude":"37.99|-87.49"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6124"},"yelp_id":{"$oid":"5cd71130fd64d7121c37ee6a"},"kaggle_id":"AVweWiEzByjofQCxxce5","restraunt name":"Arbys","latitude|longitude":"39.55|-86.04"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6125"},"yelp_id":{"$oid":"5cd71131fd64d7121c37ee6b"},"kaggle_id":"AVwdKhRsIN2L1WUfs3uU","restraunt name":"Jimmy John's","latitude|longitude":"41.89|-87.62"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6126"},"yelp_id":{"$oid":"5cd71131fd64d7121c37ee6c"},"kaggle_id":"AVweeXFKkufWRAb5DQTf","restraunt name":"Steak ’n Shake","latitude|longitude":"39.78|-85.98"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6127"},"yelp_id":{"$oid":"5cd71132fd64d7121c37ee6d"},"kaggle_id":"AVwdmxJSIN2L1WUfxeku","restraunt name":"Steak ’n Shake","latitude|longitude":"41.36|-89.13"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6128"},"yelp_id":{"$oid":"5cd71132fd64d7121c37ee6e"},"kaggle_id":"AVwcfUeEIN2L1WUflgda","restraunt name":"Steak ’n Shake","latitude|longitude":"42.27|-88.97"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6129"},"yelp_id":{"$oid":"5cd71133fd64d7121c37ee6f"},"kaggle_id":"AVwdRJYDByjofQCxnUJ-","restraunt name":"Steak ’n Shake","latitude|longitude":"39.76|-89.68"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc612a"},"yelp_id":{"$oid":"5cd71133fd64d7121c37ee70"},"kaggle_id":"AVwd66_TByjofQCxtrF-","restraunt name":"Beef Villa","latitude|longitude":"42.03|-88.32"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc612b"},"yelp_id":{"$oid":"5cd71134fd64d7121c37ee72"},"kaggle_id":"AVwd3V_TByjofQCxtLSu","restraunt name":"Arby's","latitude|longitude":"42.04|-87.8"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc612c"},"yelp_id":{"$oid":"5cd71135fd64d7121c37ee73"},"kaggle_id":"AVwcrTjn_7pvs4fzxwtJ","restraunt name":"Arby's","latitude|longitude":"41.46|-88.27"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc612d"},"yelp_id":{"$oid":"5cd71136fd64d7121c37ee75"},"kaggle_id":"AV0aTPkCFcQ3k02bEy6Q","restraunt name":"Arby's","latitude|longitude":"39.18|-89.68"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc612e"},"yelp_id":{"$oid":"5cd71137fd64d7121c37ee76"},"kaggle_id":"AV0eJjFB3D1zeR_xEm-w","restraunt name":"Arby's","latitude|longitude":"42.34|-88.0"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc612f"},"yelp_id":{"$oid":"5cd71137fd64d7121c37ee77"},"kaggle_id":"AV43W2J93-Khe5l_SPKS","restraunt name":"Arby's","latitude|longitude":"38.95|-90.19"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6130"},"yelp_id":{"$oid":"5cd71138fd64d7121c37ee78"},"kaggle_id":"AVwc7EZwkufWRAb50diz","restraunt name":"Arby's","latitude|longitude":"41.11|-88.41"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6131"},"yelp_id":{"$oid":"5cd71138fd64d7121c37ee79"},"kaggle_id":"AVwdaFx6kufWRAb55lPk","restraunt name":"Arby's","latitude|longitude":"39.9|-88.95"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6132"},"yelp_id":{"$oid":"5cd71139fd64d7121c37ee7a"},"kaggle_id":"AV0aSyp-3D1zeR_xEWVn","restraunt name":"Arby's","latitude|longitude":"40.17|-87.63"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6133"},"yelp_id":{"$oid":"5cd7113afd64d7121c37ee7c"},"kaggle_id":"AV0J7OZj3D1zeR_xDXNT","restraunt name":"Arby's","latitude|longitude":"40.17|-84.96"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6134"},"yelp_id":{"$oid":"5cd7113bfd64d7121c37ee7e"},"kaggle_id":"AV0aT0ze3D1zeR_xEXZL","restraunt name":"Arby's","latitude|longitude":"38.66|-87.51"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6135"},"yelp_id":{"$oid":"5cd7113bfd64d7121c37ee7f"},"kaggle_id":"AVwdjcaw_7pvs4fz7Bm0","restraunt name":"Arby's","latitude|longitude":"40.04|-86.0"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6136"},"yelp_id":{"$oid":"5cd7113cfd64d7121c37ee80"},"kaggle_id":"AVwcty36kufWRAb5yP11","restraunt name":"Arby's","latitude|longitude":"38.32|-85.8"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6137"},"yelp_id":{"$oid":"5cd7113dfd64d7121c37ee81"},"kaggle_id":"AVwczU4__7pvs4fzzHfh","restraunt name":"Arby's","latitude|longitude":"38.34|-85.82"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6138"},"yelp_id":{"$oid":"5cd7113dfd64d7121c37ee82"},"kaggle_id":"AVweJWrOByjofQCxvrEo","restraunt name":"Arby's","latitude|longitude":"40.76|-86.76"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6139"},"yelp_id":{"$oid":"5cd7113efd64d7121c37ee83"},"kaggle_id":"AVwdsMENkufWRAb58Xor","restraunt name":"Arby's Roast Beef","latitude|longitude":"40.75|-86.37"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc613a"},"yelp_id":{"$oid":"5cd71140fd64d7121c37ee86"},"kaggle_id":"AV0aVH9TFcQ3k02bEztE","restraunt name":"Arby's","latitude|longitude":"38.77|-85.41"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc613b"},"yelp_id":{"$oid":"5cd71140fd64d7121c37ee87"},"kaggle_id":"AV0Y3-_t-gnIPe8DVVPl","restraunt name":"Arby's","latitude|longitude":"39.09|-84.88"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc613c"},"yelp_id":{"$oid":"5cd71141fd64d7121c37ee88"},"kaggle_id":"AVwdVMdrIN2L1WUfurq1","restraunt name":"Arby's","latitude|longitude":"40.39|-86.86"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc613d"},"yelp_id":{"$oid":"5cd71142fd64d7121c37ee89"},"kaggle_id":"AVweU-9YkufWRAb5B9wn","restraunt name":"Arby's","latitude|longitude":"40.51|-86.11"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc613e"},"yelp_id":{"$oid":"5cd71143fd64d7121c37ee8b"},"kaggle_id":"AV0aV3bGLD2H7whiZgI_","restraunt name":"Arby's","latitude|longitude":"38.42|-86.94"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc613f"},"yelp_id":{"$oid":"5cd71143fd64d7121c37ee8c"},"kaggle_id":"AVwdzuO-IN2L1WUfzZlE","restraunt name":"Arby's","latitude|longitude":"39.7|-86.08"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6140"},"yelp_id":{"$oid":"5cd71144fd64d7121c37ee8e"},"kaggle_id":"AVwdAbHHByjofQCxkhma","restraunt name":"Arby's","latitude|longitude":"39.64|-86.12"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6141"},"yelp_id":{"$oid":"5cd71145fd64d7121c37ee8f"},"kaggle_id":"AVweNdgbkufWRAb5A9MS","restraunt name":"Arby's","latitude|longitude":"39.78|-86.29"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6142"},"yelp_id":{"$oid":"5cd71145fd64d7121c37ee90"},"kaggle_id":"AVzBBGTzLD2H7whiWJ1A","restraunt name":"Arby's","latitude|longitude":"39.74|-86.28"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6143"},"yelp_id":{"$oid":"5cd71146fd64d7121c37ee91"},"kaggle_id":"AVwd5Kl0kufWRAb5-LLy","restraunt name":"Arby's","latitude|longitude":"41.1|-85.15"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6144"},"yelp_id":{"$oid":"5cd71147fd64d7121c37ee93"},"kaggle_id":"AV1dqeJZa4HuVbed6YP4","restraunt name":"Arby's","latitude|longitude":"39.93|-86.16"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6145"},"yelp_id":{"$oid":"5cd71147fd64d7121c37ee94"},"kaggle_id":"AV0Y8AVF-gnIPe8DVVT_","restraunt name":"Arby's","latitude|longitude":"39.65|-86.84"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6146"},"yelp_id":{"$oid":"5cd71148fd64d7121c37ee95"},"kaggle_id":"AVwcmEPFByjofQCxgCLU","restraunt name":"Arby's","latitude|longitude":"41.08|-85.15"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6147"},"yelp_id":{"$oid":"5cd71149fd64d7121c37ee97"},"kaggle_id":"AVzBCQ9RFcQ3k02bBcy4","restraunt name":"Arby's","latitude|longitude":"41.02|-85.17"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6148"},"yelp_id":{"$oid":"5cd71149fd64d7121c37ee98"},"kaggle_id":"AVwdHSW-ByjofQCxlpDe","restraunt name":"Arby's","latitude|longitude":"41.13|-85.14"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6149"},"yelp_id":{"$oid":"5cd7114afd64d7121c37ee99"},"kaggle_id":"AVwcheZgIN2L1WUfl3x_","restraunt name":"Arby's","latitude|longitude":"39.98|-86.0"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc614a"},"yelp_id":{"$oid":"5cd7114afd64d7121c37ee9a"},"kaggle_id":"AVwdVYy7ByjofQCxoAnb","restraunt name":"Arby's","latitude|longitude":"39.2|-85.96"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc614b"},"yelp_id":{"$oid":"5cd7114bfd64d7121c37ee9b"},"kaggle_id":"AV0yYMHDLD2H7whiZ4Bx","restraunt name":"Arby's","latitude|longitude":"40.06|-85.65"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc614c"},"yelp_id":{"$oid":"5cd7114bfd64d7121c37ee9c"},"kaggle_id":"AV0aTZEl3D1zeR_xEXD2","restraunt name":"Arby's","latitude|longitude":"41.37|-85.08"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc614d"},"yelp_id":{"$oid":"5cd7114cfd64d7121c37ee9d"},"kaggle_id":"AVweR-ZpIN2L1WUf3jfE","restraunt name":"Arby's","latitude|longitude":"39.76|-86.38"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc614e"},"yelp_id":{"$oid":"5cd7114dfd64d7121c37ee9e"},"kaggle_id":"AVwcxowyByjofQCxiD_J","restraunt name":"Arby's","latitude|longitude":"39.76|-89.61"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc614f"},"yelp_id":{"$oid":"5cd7114dfd64d7121c37ee9f"},"kaggle_id":"AVwdSPPF_7pvs4fz4Qmd","restraunt name":"Arby's","latitude|longitude":"40.69|-89.48"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6150"},"yelp_id":{"$oid":"5cd7114efd64d7121c37eea1"},"kaggle_id":"AVweE2mWkufWRAb5_yFS","restraunt name":"Arby's","latitude|longitude":"39.76|-89.71"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6151"},"yelp_id":{"$oid":"5cd7114ffd64d7121c37eea3"},"kaggle_id":"AVwcnWoyByjofQCxgQpg","restraunt name":"Subway","latitude|longitude":"41.93|-84.64"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6152"},"yelp_id":{"$oid":"5cd7114ffd64d7121c37eea4"},"kaggle_id":"AVweOQYd_7pvs4fzBHXC","restraunt name":"Subway","latitude|longitude":"43.61|-84.74"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6153"},"yelp_id":{"$oid":"5cd71150fd64d7121c37eea6"},"kaggle_id":"AVwcob4ZIN2L1WUfnJ9i","restraunt name":"Subway","latitude|longitude":"43.41|-85.8"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6154"},"yelp_id":{"$oid":"5cd71151fd64d7121c37eea7"},"kaggle_id":"AVwdJvBbkufWRAb521CN","restraunt name":"Subway","latitude|longitude":"42.28|-83.19"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6155"},"yelp_id":{"$oid":"5cd71153fd64d7121c37eeaa"},"kaggle_id":"AVwdSiZkkufWRAb54Veo","restraunt name":"Taco Bell","latitude|longitude":"42.64|-83.13"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6156"},"yelp_id":{"$oid":"5cd71153fd64d7121c37eeab"},"kaggle_id":"AVwdK56KIN2L1WUfs714","restraunt name":"Taco Bell","latitude|longitude":"42.37|-83.3"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6157"},"yelp_id":{"$oid":"5cd71154fd64d7121c37eeac"},"kaggle_id":"AV43XcdWa4HuVbed_5Sf","restraunt name":"Pizza Hut","latitude|longitude":"37.77|-89.34"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6158"},"yelp_id":{"$oid":"5cd71154fd64d7121c37eead"},"kaggle_id":"AVwd_4OikufWRAb5_GNr","restraunt name":"Pizza Hut","latitude|longitude":"41.77|-88.31"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6159"},"yelp_id":{"$oid":"5cd71155fd64d7121c37eeae"},"kaggle_id":"AVwc5PhS_7pvs4fz0GeI","restraunt name":"Pizza Hut","latitude|longitude":"41.55|-87.18"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc615a"},"yelp_id":{"$oid":"5cd71157fd64d7121c37eeb0"},"kaggle_id":"AVwc65HE_7pvs4fz0YEB","restraunt name":"Pizza Hut","latitude|longitude":"41.45|-86.15"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc615b"},"yelp_id":{"$oid":"5cd71157fd64d7121c37eeb1"},"kaggle_id":"AVwdd9bjByjofQCxpa8x","restraunt name":"Pizza Hut","latitude|longitude":"41.41|-85.75"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc615c"},"yelp_id":{"$oid":"5cd71158fd64d7121c37eeb2"},"kaggle_id":"AVwd37-A_7pvs4fz-BSl","restraunt name":"Domino's Pizza","latitude|longitude":"38.73|-89.89"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc615d"},"yelp_id":{"$oid":"5cd71159fd64d7121c37eeb4"},"kaggle_id":"AVwdWSgYkufWRAb549xL","restraunt name":"Domino's Pizza","latitude|longitude":"38.54|-90.02"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc615e"},"yelp_id":{"$oid":"5cd71159fd64d7121c37eeb5"},"kaggle_id":"AVwc5btnkufWRAb50L6S","restraunt name":"Domino's Pizza","latitude|longitude":"41.94|-87.65"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc615f"},"yelp_id":{"$oid":"5cd7115bfd64d7121c37eeb7"},"kaggle_id":"AVwdSRYQkufWRAb54Srv","restraunt name":"Domino's Pizza","latitude|longitude":"41.92|-87.69"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6160"},"yelp_id":{"$oid":"5cd7115bfd64d7121c37eeb8"},"kaggle_id":"AVwdX6ugByjofQCxocYI","restraunt name":"Sonic Drive-In","latitude|longitude":"42.54|-83.11"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6161"},"yelp_id":{"$oid":"5cd7115cfd64d7121c37eeba"},"kaggle_id":"AVwdux3Q_7pvs4fz8vlN","restraunt name":"Jimmy John's","latitude|longitude":"41.93|-87.79"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6162"},"yelp_id":{"$oid":"5cd7115dfd64d7121c37eebb"},"kaggle_id":"AVwdHfnIIN2L1WUfsYXA","restraunt name":"Subway","latitude|longitude":"42.34|-89.02"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6163"},"yelp_id":{"$oid":"5cd7115dfd64d7121c37eebc"},"kaggle_id":"AVwcoW0H_7pvs4fzxQHj","restraunt name":"Subway","latitude|longitude":"38.41|-86.11"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6164"},"yelp_id":{"$oid":"5cd7115efd64d7121c37eebd"},"kaggle_id":"AVwdUE4UIN2L1WUfuf4R","restraunt name":"Subway","latitude|longitude":"41.69|-87.51"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6165"},"yelp_id":{"$oid":"5cd7115ffd64d7121c37eebf"},"kaggle_id":"AV0V9G2A-gnIPe8DVLyq","restraunt name":"Subway","latitude|longitude":"39.04|-87.16"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6166"},"yelp_id":{"$oid":"5cd71160fd64d7121c37eec0"},"kaggle_id":"AVwcwN7K_7pvs4fzymNJ","restraunt name":"Subway","latitude|longitude":"39.16|-86.55"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6167"},"yelp_id":{"$oid":"5cd71161fd64d7121c37eec3"},"kaggle_id":"AVwchPFkIN2L1WUfl077","restraunt name":"Subway","latitude|longitude":"41.18|-85.13"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6168"},"yelp_id":{"$oid":"5cd71163fd64d7121c37eec6"},"kaggle_id":"AVwcjTMVByjofQCxfhEs","restraunt name":"Subway","latitude|longitude":"39.71|-86.37"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6169"},"yelp_id":{"$oid":"5cd71164fd64d7121c37eec7"},"kaggle_id":"AVweRh_o_7pvs4fzBjYc","restraunt name":"Subway","latitude|longitude":"41.32|-87.03"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc616a"},"yelp_id":{"$oid":"5cd71165fd64d7121c37eec9"},"kaggle_id":"AV1tcBzIa4HuVbed8DEi","restraunt name":"Subway","latitude|longitude":"38.23|-86.13"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc616b"},"yelp_id":{"$oid":"5cd71165fd64d7121c37eeca"},"kaggle_id":"AV1beDZKFcQ3k02bF4_Y","restraunt name":"Subway","latitude|longitude":"39.41|-86.42"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc616c"},"yelp_id":{"$oid":"5cd71166fd64d7121c37eecb"},"kaggle_id":"AVwdRk9NByjofQCxnYa6","restraunt name":"Taco Bell","latitude|longitude":"42.46|-87.82"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc616d"},"yelp_id":{"$oid":"5cd71167fd64d7121c37eecd"},"kaggle_id":"AVzn9K0w-gnIPe8DT1xq","restraunt name":"Pizza Hut","latitude|longitude":"43.17|-86.22"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc616e"},"yelp_id":{"$oid":"5cd71167fd64d7121c37eece"},"kaggle_id":"AVwdOqos_7pvs4fz3o9l","restraunt name":"Culver's","latitude|longitude":"45.75|-87.08"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc616f"},"yelp_id":{"$oid":"5cd71168fd64d7121c37eecf"},"kaggle_id":"AV12i7pWIxWefVJwh9X4","restraunt name":"Pizza Hut","latitude|longitude":"39.95|-91.38"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6170"},"yelp_id":{"$oid":"5cd71169fd64d7121c37eed0"},"kaggle_id":"AVwdc85vIN2L1WUfv-W2","restraunt name":"D&M Subs","latitude|longitude":"45.75|-87.07"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6171"},"yelp_id":{"$oid":"5cd71169fd64d7121c37eed1"},"kaggle_id":"AVwdEp3T_7pvs4fz1-mX","restraunt name":"Pizza Hut","latitude|longitude":"42.3|-85.2"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6172"},"yelp_id":{"$oid":"5cd7116afd64d7121c37eed2"},"kaggle_id":"AVwdFTh6IN2L1WUfsCJ3","restraunt name":"Dunkin' Donuts","latitude|longitude":"41.85|-87.65"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6173"},"yelp_id":{"$oid":"5cd7116bfd64d7121c37eed3"},"kaggle_id":"AVwdi_oa_7pvs4fz69Qe","restraunt name":"Dunkin' Donuts","latitude|longitude":"41.89|-87.63"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6174"},"yelp_id":{"$oid":"5cd7116bfd64d7121c37eed4"},"kaggle_id":"AV1TsODs3D1zeR_xFFgi","restraunt name":"Dunkin' Donuts","latitude|longitude":"41.88|-87.63"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6175"},"yelp_id":{"$oid":"5cd7116cfd64d7121c37eed5"},"kaggle_id":"AV1TsOHYFcQ3k02bFi3v","restraunt name":"Dunkin' Donuts / Baskin-Robbins","latitude|longitude":"41.8|-87.59"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6176"},"yelp_id":{"$oid":"5cd7116efd64d7121c37eed8"},"kaggle_id":"AVwdMyHoByjofQCxmjt0","restraunt name":"Dunkin' Donuts / Baskin-Robbins","latitude|longitude":"41.74|-87.59"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6177"},"yelp_id":{"$oid":"5cd7116ffd64d7121c37eeda"},"kaggle_id":"AVwd3xp0kufWRAb59-kn","restraunt name":"Subway","latitude|longitude":"42.66|-83.47"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6178"},"yelp_id":{"$oid":"5cd71171fd64d7121c37eedf"},"kaggle_id":"AVzoJakP-gnIPe8DT9Yq","restraunt name":"Burger King","latitude|longitude":"42.38|-88.09"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6179"},"yelp_id":{"$oid":"5cd71172fd64d7121c37eee0"},"kaggle_id":"AVwdUFabIN2L1WUfuf-I","restraunt name":"Burger King","latitude|longitude":"42.27|-84.45"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc617a"},"yelp_id":{"$oid":"5cd71172fd64d7121c37eee1"},"kaggle_id":"AVwd8v09IN2L1WUf0pPW","restraunt name":"Burger King","latitude|longitude":"41.81|-86.25"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc617b"},"yelp_id":{"$oid":"5cd71173fd64d7121c37eee2"},"kaggle_id":"AVweDbirByjofQCxu3bI","restraunt name":"Burger King","latitude|longitude":"41.89|-86.6"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc617c"},"yelp_id":{"$oid":"5cd71173fd64d7121c37eee3"},"kaggle_id":"AV1h5OGWIxWefVJwgMCF","restraunt name":"Burger King","latitude|longitude":"42.08|-86.49"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc617d"},"yelp_id":{"$oid":"5cd71174fd64d7121c37eee5"},"kaggle_id":"AVwdyZQPIN2L1WUfzNq5","restraunt name":"Burger King","latitude|longitude":"42.74|-84.51"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc617e"},"yelp_id":{"$oid":"5cd71175fd64d7121c37eee7"},"kaggle_id":"AVwdg8wlkufWRAb56pUJ","restraunt name":"Burger King","latitude|longitude":"42.6|-83.91"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc617f"},"yelp_id":{"$oid":"5cd71176fd64d7121c37eee8"},"kaggle_id":"AVwc6STh_7pvs4fz0Rmz","restraunt name":"Burger King","latitude|longitude":"43.4|-84.67"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6180"},"yelp_id":{"$oid":"5cd71177fd64d7121c37eee9"},"kaggle_id":"AVwePbByIN2L1WUf3NNk","restraunt name":"Burger King","latitude|longitude":"42.76|-84.5"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6181"},"yelp_id":{"$oid":"5cd71178fd64d7121c37eeeb"},"kaggle_id":"AVwdITvrkufWRAb52mMj","restraunt name":"Burger King","latitude|longitude":"43.61|-84.21"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6182"},"yelp_id":{"$oid":"5cd71179fd64d7121c37eeec"},"kaggle_id":"AVwdN_JgkufWRAb53jaP","restraunt name":"Burger King","latitude|longitude":"43.84|-84.77"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6183"},"yelp_id":{"$oid":"5cd7117afd64d7121c37eeef"},"kaggle_id":"AVwdkKyw_7pvs4fz7JGJ","restraunt name":"Burger King","latitude|longitude":"42.79|-83.74"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6184"},"yelp_id":{"$oid":"5cd7117bfd64d7121c37eef1"},"kaggle_id":"AV1XWo6R3D1zeR_xFIoI","restraunt name":"Grandy's","latitude|longitude":"38.43|-86.94"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6185"},"yelp_id":{"$oid":"5cd7117cfd64d7121c37eef3"},"kaggle_id":"AVwc47FDkufWRAb50GY8","restraunt name":"Jack in the Box","latitude|longitude":"38.51|-89.98"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6186"},"yelp_id":{"$oid":"5cd7117dfd64d7121c37eef4"},"kaggle_id":"AV12inhbIxWefVJwh7A2","restraunt name":"Jack in the Box","latitude|longitude":"38.66|-90.03"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6187"},"yelp_id":{"$oid":"5cd71182fd64d7121c37eef6"},"kaggle_id":"AVzxpQsfLD2H7whiX69R","restraunt name":"Jimmy John's","latitude|longitude":"42.47|-82.91"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6188"},"yelp_id":{"$oid":"5cd71185fd64d7121c37eefb"},"kaggle_id":"AVweDq22_7pvs4fz_qfs","restraunt name":"Long John Silver's","latitude|longitude":"41.59|-85.85"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6189"},"yelp_id":{"$oid":"5cd71186fd64d7121c37eefc"},"kaggle_id":"AVwc7I-uIN2L1WUfqYY_","restraunt name":"Long John Silver's","latitude|longitude":"41.68|-86.2"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc618a"},"yelp_id":{"$oid":"5cd71187fd64d7121c37eefe"},"kaggle_id":"AVwcux3EIN2L1WUfoQiF","restraunt name":"White Castle","latitude|longitude":"41.82|-87.8"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc618b"},"yelp_id":{"$oid":"5cd71188fd64d7121c37ef00"},"kaggle_id":"AVwc6V-3IN2L1WUfqPqD","restraunt name":"Taco Bell","latitude|longitude":"41.62|-86.73"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc618c"},"yelp_id":{"$oid":"5cd7118bfd64d7121c37ef05"},"kaggle_id":"AV0aVPbUFcQ3k02bEz2B","restraunt name":"Taco Bell","latitude|longitude":"39.79|-88.27"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc618d"},"yelp_id":{"$oid":"5cd7118bfd64d7121c37ef06"},"kaggle_id":"AVwdwht2kufWRAb58_Bo","restraunt name":"Taco Bell","latitude|longitude":"39.22|-85.91"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc618e"},"yelp_id":{"$oid":"5cd7118cfd64d7121c37ef07"},"kaggle_id":"AVwcmxxpIN2L1WUfm3SR","restraunt name":"Taco Bell","latitude|longitude":"41.91|-84.03"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc618f"},"yelp_id":{"$oid":"5cd7118dfd64d7121c37ef09"},"kaggle_id":"AV0aQq-EFcQ3k02bEwRs","restraunt name":"Taco Bell","latitude|longitude":"41.86|-89.5"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6190"},"yelp_id":{"$oid":"5cd7118efd64d7121c37ef0b"},"kaggle_id":"AV0aTZEPLD2H7whiZeaz","restraunt name":"Taco Bell","latitude|longitude":"41.37|-85.08"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6191"},"yelp_id":{"$oid":"5cd7118efd64d7121c37ef0c"},"kaggle_id":"AV12btQS3-Khe5l_PMUF","restraunt name":"Taco Bell","latitude|longitude":"41.98|-86.12"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6192"},"yelp_id":{"$oid":"5cd7118ffd64d7121c37ef0d"},"kaggle_id":"AV1duZuU3-Khe5l_Mu5O","restraunt name":"Taco Bell","latitude|longitude":"42.76|-86.12"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6193"},"yelp_id":{"$oid":"5cd71190fd64d7121c37ef0f"},"kaggle_id":"AVwc9V2DByjofQCxkCSj","restraunt name":"Taco Bell","latitude|longitude":"44.68|-85.66"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6194"},"yelp_id":{"$oid":"5cd71190fd64d7121c37ef10"},"kaggle_id":"AVwdSFCoIN2L1WUfuLAY","restraunt name":"Taco Bell","latitude|longitude":"40.53|-85.67"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6195"},"yelp_id":{"$oid":"5cd71191fd64d7121c37ef11"},"kaggle_id":"AVwdQY07ByjofQCxnLmt","restraunt name":"Taco Bell","latitude|longitude":"39.6|-87.69"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6196"},"yelp_id":{"$oid":"5cd71191fd64d7121c37ef12"},"kaggle_id":"AVwcglX-kufWRAb5v7Jn","restraunt name":"Pizza Hut","latitude|longitude":"42.35|-87.87"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6197"},"yelp_id":{"$oid":"5cd71192fd64d7121c37ef13"},"kaggle_id":"AVwc95tf_7pvs4fz025G","restraunt name":"Steak ’n Shake","latitude|longitude":"38.96|-85.86"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6198"},"yelp_id":{"$oid":"5cd71193fd64d7121c37ef14"},"kaggle_id":"AVweQMZ1_7pvs4fzBYC9","restraunt name":"Steak ’n Shake","latitude|longitude":"39.62|-86.35"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6199"},"yelp_id":{"$oid":"5cd71193fd64d7121c37ef15"},"kaggle_id":"AVwebwDVByjofQCxyJ9U","restraunt name":"Steak ’n Shake","latitude|longitude":"40.42|-86.82"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc619a"},"yelp_id":{"$oid":"5cd71194fd64d7121c37ef16"},"kaggle_id":"AVwdbu3GByjofQCxpEfD","restraunt name":"Steak ’n Shake","latitude|longitude":"40.48|-86.11"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc619b"},"yelp_id":{"$oid":"5cd71194fd64d7121c37ef17"},"kaggle_id":"AVwdGzkzIN2L1WUfsRWf","restraunt name":"Steak ’n Shake","latitude|longitude":"39.77|-86.16"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc619c"},"yelp_id":{"$oid":"5cd71196fd64d7121c37ef1b"},"kaggle_id":"AVwd3fJxkufWRAb598Cr","restraunt name":"Arby's","latitude|longitude":"39.78|-86.17"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc619d"},"yelp_id":{"$oid":"5cd71197fd64d7121c37ef1d"},"kaggle_id":"AVwcpWGEkufWRAb5xfAG","restraunt name":"Taco Bell","latitude|longitude":"43.04|-83.32"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc619e"},"yelp_id":{"$oid":"5cd71198fd64d7121c37ef1e"},"kaggle_id":"AV1c03RH3-Khe5l_LyBl","restraunt name":"Comet Burgers","latitude|longitude":"42.49|-83.14"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc619f"},"yelp_id":{"$oid":"5cd71198fd64d7121c37ef1f"},"kaggle_id":"AVwc3X7xkufWRAb5z1e8","restraunt name":"Burger King","latitude|longitude":"42.37|-83.14"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61a0"},"yelp_id":{"$oid":"5cd71199fd64d7121c37ef20"},"kaggle_id":"AVwckZzZIN2L1WUfmbUG","restraunt name":"Burger King","latitude|longitude":"42.68|-83.19"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61a1"},"yelp_id":{"$oid":"5cd7119afd64d7121c37ef21"},"kaggle_id":"AVwd3MCPIN2L1WUfz3jc","restraunt name":"Burger King","latitude|longitude":"42.44|-83.02"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61a2"},"yelp_id":{"$oid":"5cd7119bfd64d7121c37ef24"},"kaggle_id":"AVwdD6jy_7pvs4fz12lL","restraunt name":"Burger King","latitude|longitude":"42.38|-82.97"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61a3"},"yelp_id":{"$oid":"5cd7119cfd64d7121c37ef26"},"kaggle_id":"AVwdbll0ByjofQCxpC6x","restraunt name":"Burger King","latitude|longitude":"42.2|-83.7"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61a4"},"yelp_id":{"$oid":"5cd7119efd64d7121c37ef29"},"kaggle_id":"AVwcsy3XkufWRAb5yFFc","restraunt name":"Burger King","latitude|longitude":"41.91|-87.81"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61a5"},"yelp_id":{"$oid":"5cd7119efd64d7121c37ef2a"},"kaggle_id":"AVwdWBKokufWRAb546we","restraunt name":"Burger King","latitude|longitude":"42.03|-88.34"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61a6"},"yelp_id":{"$oid":"5cd7119efd64d7121c37ef2b"},"kaggle_id":"AVwdbI_XIN2L1WUfvrAe","restraunt name":"Burger King","latitude|longitude":"42.06|-88.32"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61a7"},"yelp_id":{"$oid":"5cd7119ffd64d7121c37ef2c"},"kaggle_id":"AV1thM3sRxPSIh2Rbdnb","restraunt name":"Burger King","latitude|longitude":"38.79|-89.95"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61a8"},"yelp_id":{"$oid":"5cd7119ffd64d7121c37ef2d"},"kaggle_id":"AVwdp4KyByjofQCxrQJ5","restraunt name":"Burger King","latitude|longitude":"41.62|-87.59"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61a9"},"yelp_id":{"$oid":"5cd711a0fd64d7121c37ef2e"},"kaggle_id":"AVwejYNYIN2L1WUf6BGw","restraunt name":"Burger King","latitude|longitude":"41.75|-88.01"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61aa"},"yelp_id":{"$oid":"5cd711a0fd64d7121c37ef2f"},"kaggle_id":"AVwd8Zn2_7pvs4fz-ot2","restraunt name":"Burger King","latitude|longitude":"41.91|-87.75"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61ab"},"yelp_id":{"$oid":"5cd711a1fd64d7121c37ef30"},"kaggle_id":"AVweF3iMByjofQCxvMV3","restraunt name":"Burger King","latitude|longitude":"41.96|-87.75"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61ac"},"yelp_id":{"$oid":"5cd711a1fd64d7121c37ef31"},"kaggle_id":"AVwd8wOQ_7pvs4fz-r8a","restraunt name":"Burger King","latitude|longitude":"41.9|-87.73"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61ad"},"yelp_id":{"$oid":"5cd711a2fd64d7121c37ef32"},"kaggle_id":"AVweHQ7jkufWRAb5AHQR","restraunt name":"Burger King","latitude|longitude":"41.81|-87.68"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61ae"},"yelp_id":{"$oid":"5cd711a2fd64d7121c37ef33"},"kaggle_id":"AVwcjuLkByjofQCxfmLP","restraunt name":"Burger King","latitude|longitude":"41.9|-87.69"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61af"},"yelp_id":{"$oid":"5cd711a3fd64d7121c37ef34"},"kaggle_id":"AVwcyEkVByjofQCxiIsz","restraunt name":"Burger King","latitude|longitude":"41.95|-87.66"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61b0"},"yelp_id":{"$oid":"5cd711a3fd64d7121c37ef35"},"kaggle_id":"AVwc012qByjofQCxinLA","restraunt name":"Rally's","latitude|longitude":"39.79|-86.05"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61b1"},"yelp_id":{"$oid":"5cd711a4fd64d7121c37ef36"},"kaggle_id":"AVwdDrYlByjofQCxlEIC","restraunt name":"Rally's","latitude|longitude":"41.59|-87.48"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61b2"},"yelp_id":{"$oid":"5cd711a4fd64d7121c37ef37"},"kaggle_id":"AV53e4md3-Khe5l_W05P","restraunt name":"Rally's","latitude|longitude":"41.6|-87.35"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61b3"},"yelp_id":{"$oid":"5cd711a5fd64d7121c37ef38"},"kaggle_id":"AVwcrni8kufWRAb5x4VL","restraunt name":"Rally's","latitude|longitude":"41.08|-85.14"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61b4"},"yelp_id":{"$oid":"5cd711a5fd64d7121c37ef39"},"kaggle_id":"AVwdSRqzIN2L1WUfuNE4","restraunt name":"Rally's","latitude|longitude":"38.54|-90.02"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61b5"},"yelp_id":{"$oid":"5cd711a6fd64d7121c37ef3a"},"kaggle_id":"AV43YAWUIxWefVJwkpsJ","restraunt name":"Henny Penny Family Restaurant","latitude|longitude":"42.34|-88.23"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61b6"},"yelp_id":{"$oid":"5cd711a7fd64d7121c37ef3b"},"kaggle_id":"AVwdbSaiByjofQCxo_q5","restraunt name":"Steak ’n Shake","latitude|longitude":"42.09|-87.93"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61b7"},"yelp_id":{"$oid":"5cd711a8fd64d7121c37ef3e"},"kaggle_id":"AVwdjxVKIN2L1WUfxAFv","restraunt name":"Steak ’n Shake","latitude|longitude":"39.88|-88.94"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61b8"},"yelp_id":{"$oid":"5cd711a9fd64d7121c37ef3f"},"kaggle_id":"AV0aSxxrFcQ3k02bEyWY","restraunt name":"Steak ’n Shake","latitude|longitude":"40.18|-87.63"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61b9"},"yelp_id":{"$oid":"5cd711aafd64d7121c37ef41"},"kaggle_id":"AVwdBtX3_7pvs4fz1fAG","restraunt name":"Steak ’n Shake","latitude|longitude":"41.16|-87.85"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61ba"},"yelp_id":{"$oid":"5cd711abfd64d7121c37ef42"},"kaggle_id":"AVwdQm4FkufWRAb54A7-","restraunt name":"Subway","latitude|longitude":"38.87|-90.07"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61bb"},"yelp_id":{"$oid":"5cd711abfd64d7121c37ef43"},"kaggle_id":"AVwcyQq0ByjofQCxiKWL","restraunt name":"McDonald's","latitude|longitude":"39.79|-89.65"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61bc"},"yelp_id":{"$oid":"5cd711acfd64d7121c37ef44"},"kaggle_id":"AV5bHWOv3-Khe5l_V1Ow","restraunt name":"Taco Bell","latitude|longitude":"38.86|-86.51"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61bd"},"yelp_id":{"$oid":"5cd711acfd64d7121c37ef45"},"kaggle_id":"AVweXHujkufWRAb5CP8N","restraunt name":"Subway","latitude|longitude":"42.27|-89.09"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61be"},"yelp_id":{"$oid":"5cd711adfd64d7121c37ef47"},"kaggle_id":"AVweNd2I_7pvs4fzBAiy","restraunt name":"Sonic Drive-In","latitude|longitude":"38.88|-90.12"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61bf"},"yelp_id":{"$oid":"5cd711aefd64d7121c37ef48"},"kaggle_id":"AVwdhY6iIN2L1WUfwo5c","restraunt name":"Backyard Grill","latitude|longitude":"42.0|-87.73"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61c0"},"yelp_id":{"$oid":"5cd711aefd64d7121c37ef49"},"kaggle_id":"AVwdrLxckufWRAb58OLJ","restraunt name":"Burger King","latitude|longitude":"45.4|-84.61"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61c1"},"yelp_id":{"$oid":"5cd711affd64d7121c37ef4a"},"kaggle_id":"AV1dvR-r3-Khe5l_MyMT","restraunt name":"Burger King","latitude|longitude":"44.75|-85.53"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61c2"},"yelp_id":{"$oid":"5cd711affd64d7121c37ef4b"},"kaggle_id":"AVwdV_dHkufWRAb546cE","restraunt name":"Burger King","latitude|longitude":"43.89|-85.52"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61c3"},"yelp_id":{"$oid":"5cd711b0fd64d7121c37ef4d"},"kaggle_id":"AVwdCPVy_7pvs4fz1knQ","restraunt name":"Burger King","latitude|longitude":"44.74|-85.17"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61c4"},"yelp_id":{"$oid":"5cd711b1fd64d7121c37ef4f"},"kaggle_id":"AVwcqcOuIN2L1WUfngcF","restraunt name":"Burger King","latitude|longitude":"43.0|-85.65"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61c5"},"yelp_id":{"$oid":"5cd711b2fd64d7121c37ef50"},"kaggle_id":"AVwcq_i_ByjofQCxg5nd","restraunt name":"Burger King","latitude|longitude":"42.81|-86.02"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61c6"},"yelp_id":{"$oid":"5cd711b3fd64d7121c37ef52"},"kaggle_id":"AVwc30N3kufWRAb5z6qM","restraunt name":"Burger King","latitude|longitude":"43.41|-86.32"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61c7"},"yelp_id":{"$oid":"5cd711b4fd64d7121c37ef54"},"kaggle_id":"AVwcneg_kufWRAb5xKwq","restraunt name":"Burger King","latitude|longitude":"42.77|-86.12"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61c8"},"yelp_id":{"$oid":"5cd711b5fd64d7121c37ef55"},"kaggle_id":"AVwcvin4kufWRAb5yiih","restraunt name":"Burger King","latitude|longitude":"42.8|-86.11"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61c9"},"yelp_id":{"$oid":"5cd711b6fd64d7121c37ef58"},"kaggle_id":"AV1thrtQIxWefVJwhDzZ","restraunt name":"Panera Bread","latitude|longitude":"39.93|-86.02"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61ca"},"yelp_id":{"$oid":"5cd711b7fd64d7121c37ef59"},"kaggle_id":"AV12iAYDa4HuVbed9NQH","restraunt name":"Panera Bread","latitude|longitude":"40.0|-86.12"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61cb"},"yelp_id":{"$oid":"5cd711b7fd64d7121c37ef5a"},"kaggle_id":"AVwcp4EUIN2L1WUfnaQ-","restraunt name":"Jimmy John's","latitude|longitude":"42.37|-83.47"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61cc"},"yelp_id":{"$oid":"5cd711b8fd64d7121c37ef5b"},"kaggle_id":"AVwd39uvByjofQCxtQZZ","restraunt name":"Jimmy John's","latitude|longitude":"42.37|-83.37"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61cd"},"yelp_id":{"$oid":"5cd711b8fd64d7121c37ef5c"},"kaggle_id":"AVzA-ovVLD2H7whiWIhi","restraunt name":"Wendy's","latitude|longitude":"39.9|-86.06"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61ce"},"yelp_id":{"$oid":"5cd711b9fd64d7121c37ef5e"},"kaggle_id":"AVwcjQ5kIN2L1WUfmNfi","restraunt name":"Wendy's","latitude|longitude":"39.85|-86.12"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61cf"},"yelp_id":{"$oid":"5cd711bbfd64d7121c37ef60"},"kaggle_id":"AVweFhBskufWRAb5_30x","restraunt name":"Wendy's","latitude|longitude":"39.76|-86.43"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61d0"},"yelp_id":{"$oid":"5cd711bbfd64d7121c37ef61"},"kaggle_id":"AVwc34RFByjofQCxjHpo","restraunt name":"Wendy's","latitude|longitude":"39.96|-86.12"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61d1"},"yelp_id":{"$oid":"5cd711bdfd64d7121c37ef63"},"kaggle_id":"AVwc-yH3kufWRAb51DUu","restraunt name":"Wendy's","latitude|longitude":"40.15|-85.68"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61d2"},"yelp_id":{"$oid":"5cd711bdfd64d7121c37ef64"},"kaggle_id":"AVwd7VGG_7pvs4fz-fWO","restraunt name":"Dairy Queen","latitude|longitude":"43.25|-83.78"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61d3"},"yelp_id":{"$oid":"5cd711befd64d7121c37ef65"},"kaggle_id":"AVwdYiicIN2L1WUfvPWQ","restraunt name":"Wendy's","latitude|longitude":"39.46|-87.41"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61d4"},"yelp_id":{"$oid":"5cd711befd64d7121c37ef66"},"kaggle_id":"AVwcrXPGByjofQCxg9_T","restraunt name":"Wendy's","latitude|longitude":"40.39|-86.85"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61d5"},"yelp_id":{"$oid":"5cd711bffd64d7121c37ef67"},"kaggle_id":"AV1ip9id3-Khe5l_N_6X","restraunt name":"Wendy's","latitude|longitude":"40.45|-86.92"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61d6"},"yelp_id":{"$oid":"5cd711bffd64d7121c37ef68"},"kaggle_id":"AV0aV3Y6LD2H7whiZgI9","restraunt name":"Wendy's","latitude|longitude":"38.42|-86.94"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61d7"},"yelp_id":{"$oid":"5cd711c0fd64d7121c37ef69"},"kaggle_id":"AVwch8UUIN2L1WUfl9b4","restraunt name":"Wendy's","latitude|longitude":"39.17|-86.58"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61d8"},"yelp_id":{"$oid":"5cd711c1fd64d7121c37ef6a"},"kaggle_id":"AWE7OdH43-Khe5l_fz3J","restraunt name":"Wendy's","latitude|longitude":"38.31|-85.76"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61d9"},"yelp_id":{"$oid":"5cd711c1fd64d7121c37ef6b"},"kaggle_id":"AVwc9O2cByjofQCxkBIT","restraunt name":"Wendy's","latitude|longitude":"41.11|-85.12"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61da"},"yelp_id":{"$oid":"5cd711c2fd64d7121c37ef6d"},"kaggle_id":"AVwdJUtgkufWRAb52wl7","restraunt name":"Wendy's","latitude|longitude":"41.08|-85.14"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61db"},"yelp_id":{"$oid":"5cd711c3fd64d7121c37ef6e"},"kaggle_id":"AVwdkTpBIN2L1WUfxFji","restraunt name":"Wendy's","latitude|longitude":"41.59|-85.85"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61dc"},"yelp_id":{"$oid":"5cd711c4fd64d7121c37ef70"},"kaggle_id":"AVwc7OedIN2L1WUfqZVZ","restraunt name":"Penguin Point","latitude|longitude":"40.78|-85.82"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61dd"},"yelp_id":{"$oid":"5cd711c5fd64d7121c37ef71"},"kaggle_id":"AV0aTPke3D1zeR_xEW44","restraunt name":"Jack in the Box","latitude|longitude":"39.18|-89.68"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61de"},"yelp_id":{"$oid":"5cd711c7fd64d7121c37ef75"},"kaggle_id":"AVwd6b3bkufWRAb5-WJO","restraunt name":"McDonald's","latitude|longitude":"39.98|-86.4"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61df"},"yelp_id":{"$oid":"5cd711c8fd64d7121c37ef77"},"kaggle_id":"AVwcx6W5_7pvs4fzy4k4","restraunt name":"George's Gyros Spot 2","latitude|longitude":"41.55|-87.27"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61e0"},"yelp_id":{"$oid":"5cd711c9fd64d7121c37ef78"},"kaggle_id":"AVzBDUjt3D1zeR_xBF4W","restraunt name":"Steak ’n Shake","latitude|longitude":"41.76|-88.21"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61e1"},"yelp_id":{"$oid":"5cd711cafd64d7121c37ef7a"},"kaggle_id":"AVwdeP1KkufWRAb56QDl","restraunt name":"Church's Chicken","latitude|longitude":"41.59|-87.34"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61e2"},"yelp_id":{"$oid":"5cd711cafd64d7121c37ef7b"},"kaggle_id":"AVwchaEAByjofQCxfJ5y","restraunt name":"Jimmy John's","latitude|longitude":"39.13|-88.56"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61e3"},"yelp_id":{"$oid":"5cd711cbfd64d7121c37ef7c"},"kaggle_id":"AVwdldt7_7pvs4fz7VWs","restraunt name":"Culver's","latitude|longitude":"39.2|-85.95"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61e4"},"yelp_id":{"$oid":"5cd711cbfd64d7121c37ef7d"},"kaggle_id":"AVwctaBskufWRAb5yLxs","restraunt name":"Subway","latitude|longitude":"40.2|-85.39"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61e5"},"yelp_id":{"$oid":"5cd711ccfd64d7121c37ef7e"},"kaggle_id":"AVwellCBIN2L1WUf6Vwd","restraunt name":"Jimmy John's","latitude|longitude":"41.94|-88.77"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61e6"},"yelp_id":{"$oid":"5cd711cefd64d7121c37ef81"},"kaggle_id":"AVzA9y6j-gnIPe8DSfO5","restraunt name":"Arby's","latitude|longitude":"42.3|-83.88"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61e7"},"yelp_id":{"$oid":"5cd711cefd64d7121c37ef82"},"kaggle_id":"AVwdCSZg_7pvs4fz1lLU","restraunt name":"7-Eleven","latitude|longitude":"42.05|-87.88"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61e8"},"yelp_id":{"$oid":"5cd711cffd64d7121c37ef83"},"kaggle_id":"AVwc7GpskufWRAb50d6F","restraunt name":"McDonald's","latitude|longitude":"43.6|-84.81"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61e9"},"yelp_id":{"$oid":"5cd711cffd64d7121c37ef84"},"kaggle_id":"AVwdIxCN_7pvs4fz2oHJ","restraunt name":"Jimmy John's","latitude|longitude":"43.02|-83.52"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61ea"},"yelp_id":{"$oid":"5cd711d0fd64d7121c37ef85"},"kaggle_id":"AVwcxGITIN2L1WUfoq2_","restraunt name":"Taco Bell","latitude|longitude":"41.68|-86.19"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61eb"},"yelp_id":{"$oid":"5cd711d0fd64d7121c37ef86"},"kaggle_id":"AVwcywo3kufWRAb5zFI6","restraunt name":"KFC","latitude|longitude":"38.37|-85.76"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61ec"},"yelp_id":{"$oid":"5cd711d1fd64d7121c37ef88"},"kaggle_id":"AVweDso-IN2L1WUf1nbY","restraunt name":"Jimmy John's","latitude|longitude":"41.15|-87.88"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61ed"},"yelp_id":{"$oid":"5cd711d2fd64d7121c37ef89"},"kaggle_id":"AVwd8k4LIN2L1WUf0npS","restraunt name":"McDonald's","latitude|longitude":"42.27|-88.98"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61ee"},"yelp_id":{"$oid":"5cd711d2fd64d7121c37ef8a"},"kaggle_id":"AV1gzlo5IxWefVJwf8ew","restraunt name":"Penn's Thai Cafe","latitude|longitude":"42.57|-83.13"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61ef"},"yelp_id":{"$oid":"5cd711d3fd64d7121c37ef8c"},"kaggle_id":"AVwdNyqCByjofQCxmuBX","restraunt name":"Subway","latitude|longitude":"42.44|-84.93"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61f0"},"yelp_id":{"$oid":"5cd711d4fd64d7121c37ef8d"},"kaggle_id":"AV4vtMsTa4HuVbed_skp","restraunt name":"McDonald's","latitude|longitude":"42.43|-87.94"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61f1"},"yelp_id":{"$oid":"5cd711d5fd64d7121c37ef8e"},"kaggle_id":"AVwckFUqkufWRAb5wkHS","restraunt name":"Subway","latitude|longitude":"43.0|-85.65"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61f2"},"yelp_id":{"$oid":"5cd711d5fd64d7121c37ef8f"},"kaggle_id":"AVwd1Yf_IN2L1WUfzoVp","restraunt name":"KFC","latitude|longitude":"41.67|-86.11"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61f3"},"yelp_id":{"$oid":"5cd711d6fd64d7121c37ef90"},"kaggle_id":"AVweDhnJkufWRAb5_m_G","restraunt name":"KFC","latitude|longitude":"42.48|-82.95"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61f4"},"yelp_id":{"$oid":"5cd711d6fd64d7121c37ef91"},"kaggle_id":"AV53fYaOIxWefVJwp3bL","restraunt name":"McDonald's","latitude|longitude":"43.02|-83.73"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61f5"},"yelp_id":{"$oid":"5cd711d7fd64d7121c37ef92"},"kaggle_id":"AVweMtMDByjofQCxwIgy","restraunt name":"Arby's","latitude|longitude":"42.5|-83.03"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61f6"},"yelp_id":{"$oid":"5cd711d8fd64d7121c37ef93"},"kaggle_id":"AVwdqJjIkufWRAb58D2o","restraunt name":"McDonald's","latitude|longitude":"40.71|-89.59"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61f7"},"yelp_id":{"$oid":"5cd711d9fd64d7121c37ef95"},"kaggle_id":"AV1ZVgWV-gnIPe8DW8QD","restraunt name":"Photo's Hotdogs","latitude|longitude":"42.12|-88.03"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61f8"},"yelp_id":{"$oid":"5cd711d9fd64d7121c37ef96"},"kaggle_id":"AVzA9F203D1zeR_xBB0o","restraunt name":"Taco Bell","latitude|longitude":"39.91|-86.14"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61f9"},"yelp_id":{"$oid":"5cd711dafd64d7121c37ef97"},"kaggle_id":"AVwcoNZoIN2L1WUfnHWW","restraunt name":"Chipotle Mexican Grill","latitude|longitude":"41.87|-88.34"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61fa"},"yelp_id":{"$oid":"5cd711dbfd64d7121c37ef99"},"kaggle_id":"AVz5xoBu3D1zeR_xDF9S","restraunt name":"Taco Bell","latitude|longitude":"39.49|-86.06"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61fb"},"yelp_id":{"$oid":"5cd711dcfd64d7121c37ef9a"},"kaggle_id":"AVwc6hBRByjofQCxjkcV","restraunt name":"Del Taco","latitude|longitude":"42.38|-83.33"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61fc"},"yelp_id":{"$oid":"5cd711dcfd64d7121c37ef9b"},"kaggle_id":"AVwdaQqhByjofQCxo0gf","restraunt name":"McDonald's","latitude|longitude":"41.6|-87.5"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61fd"},"yelp_id":{"$oid":"5cd711ddfd64d7121c37ef9c"},"kaggle_id":"AVwdI4KCByjofQCxl4zM","restraunt name":"McDonald's","latitude|longitude":"44.02|-84.8"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61fe"},"yelp_id":{"$oid":"5cd711ddfd64d7121c37ef9d"},"kaggle_id":"AWEKlGrx3-Khe5l_euaS","restraunt name":"Blimpie","latitude|longitude":"42.36|-83.07"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc61ff"},"yelp_id":{"$oid":"5cd711defd64d7121c37ef9e"},"kaggle_id":"AVwcuoYx_7pvs4fzyUko","restraunt name":"Rally's","latitude|longitude":"41.12|-85.14"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6200"},"yelp_id":{"$oid":"5cd711dffd64d7121c37ef9f"},"kaggle_id":"AVwdBKzFIN2L1WUfrWs3","restraunt name":"The Dog Pit","latitude|longitude":"42.97|-85.67"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6201"},"yelp_id":{"$oid":"5cd711dffd64d7121c37efa0"},"kaggle_id":"AV1tflsdRxPSIh2RbS4v","restraunt name":"McDonald's","latitude|longitude":"41.81|-89.96"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6202"},"yelp_id":{"$oid":"5cd711e0fd64d7121c37efa1"},"kaggle_id":"AVwdaUn6_7pvs4fz5m0_","restraunt name":"Bob Evans","latitude|longitude":"43.0|-84.15"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6203"},"yelp_id":{"$oid":"5cd711e1fd64d7121c37efa3"},"kaggle_id":"AVwdiIIwByjofQCxqC2X","restraunt name":"McDonald's","latitude|longitude":"39.92|-88.95"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6204"},"yelp_id":{"$oid":"5cd711e1fd64d7121c37efa4"},"kaggle_id":"AVwd4UWQkufWRAb5-DYH","restraunt name":"KFC","latitude|longitude":"43.15|-86.2"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6205"},"yelp_id":{"$oid":"5cd711e2fd64d7121c37efa6"},"kaggle_id":"AV12fVBqIxWefVJwhl3o","restraunt name":"Taco Bell","latitude|longitude":"42.5|-83.54"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6206"},"yelp_id":{"$oid":"5cd711e3fd64d7121c37efa7"},"kaggle_id":"AV2FW6vnIxWefVJwifR5","restraunt name":"Taco Bell","latitude|longitude":"39.31|-85.22"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6207"},"yelp_id":{"$oid":"5cd711e4fd64d7121c37efa8"},"kaggle_id":"AVwehV0xByjofQCxy_gb","restraunt name":"Taco Bell","latitude|longitude":"40.57|-85.68"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6208"},"yelp_id":{"$oid":"5cd711e4fd64d7121c37efa9"},"kaggle_id":"AVwd590YIN2L1WUf0QHH","restraunt name":"Domino's Pizza","latitude|longitude":"42.03|-88.06"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6209"},"yelp_id":{"$oid":"5cd711e5fd64d7121c37efaa"},"kaggle_id":"AVwcln2I_7pvs4fzww3i","restraunt name":"Domino's Pizza","latitude|longitude":"43.62|-84.23"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc620a"},"yelp_id":{"$oid":"5cd711e5fd64d7121c37efab"},"kaggle_id":"AVwdTrXf_7pvs4fz4f8D","restraunt name":"Domino's Pizza","latitude|longitude":"43.58|-83.89"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc620b"},"yelp_id":{"$oid":"5cd711e7fd64d7121c37efae"},"kaggle_id":"AVwdb0o3_7pvs4fz53gH","restraunt name":"Culvers","latitude|longitude":"42.21|-85.59"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc620c"},"yelp_id":{"$oid":"5cd711e8fd64d7121c37efaf"},"kaggle_id":"AVweGbMTByjofQCxvRZy","restraunt name":"Culvers","latitude|longitude":"42.71|-83.24"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc620d"},"yelp_id":{"$oid":"5cd711e9fd64d7121c37efb2"},"kaggle_id":"AVwc90U-kufWRAb505NG","restraunt name":"Bob Evans","latitude|longitude":"41.95|-83.4"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc620e"},"yelp_id":{"$oid":"5cd711ebfd64d7121c37efb5"},"kaggle_id":"AVwdf7GsByjofQCxpta2","restraunt name":"McDonald's","latitude|longitude":"40.46|-88.38"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc620f"},"yelp_id":{"$oid":"5cd711ecfd64d7121c37efb6"},"kaggle_id":"AVwdVrifIN2L1WUfuw2b","restraunt name":"McDonald's","latitude|longitude":"42.02|-87.96"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6210"},"yelp_id":{"$oid":"5cd711ecfd64d7121c37efb7"},"kaggle_id":"AVwdEjJTkufWRAb52AV2","restraunt name":"McDonald's","latitude|longitude":"42.04|-88.31"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6211"},"yelp_id":{"$oid":"5cd711edfd64d7121c37efb8"},"kaggle_id":"AVwdWHyfIN2L1WUfu2An","restraunt name":"McDonald's","latitude|longitude":"42.06|-88.32"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6212"},"yelp_id":{"$oid":"5cd711edfd64d7121c37efb9"},"kaggle_id":"AVwcpJD6IN2L1WUfnR89","restraunt name":"McDonald's","latitude|longitude":"42.05|-88.28"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6213"},"yelp_id":{"$oid":"5cd711eefd64d7121c37efba"},"kaggle_id":"AV0aQpHDFcQ3k02bEwPf","restraunt name":"McDonald's","latitude|longitude":"39.14|-88.57"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6214"},"yelp_id":{"$oid":"5cd711effd64d7121c37efbb"},"kaggle_id":"AVwdbOFFkufWRAb55xXd","restraunt name":"McDonald's","latitude|longitude":"38.88|-90.12"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6215"},"yelp_id":{"$oid":"5cd711f0fd64d7121c37efbd"},"kaggle_id":"AVwdqvXmkufWRAb58Jrz","restraunt name":"McDonald's","latitude|longitude":"41.93|-88.77"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6216"},"yelp_id":{"$oid":"5cd711f1fd64d7121c37efbe"},"kaggle_id":"AVweM-bQByjofQCxwLBb","restraunt name":"McDonald's","latitude|longitude":"41.93|-88.75"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6217"},"yelp_id":{"$oid":"5cd711f1fd64d7121c37efbf"},"kaggle_id":"AVwd7TAP_7pvs4fz-fA_","restraunt name":"McDonald's","latitude|longitude":"39.85|-88.97"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6218"},"yelp_id":{"$oid":"5cd711f2fd64d7121c37efc0"},"kaggle_id":"AVzX5wdTLD2H7whiWv-f","restraunt name":"McDonald's","latitude|longitude":"41.55|-88.12"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6219"},"yelp_id":{"$oid":"5cd711f2fd64d7121c37efc1"},"kaggle_id":"AVwcyqwT_7pvs4fzzAey","restraunt name":"McDonald's","latitude|longitude":"41.64|-87.74"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc621a"},"yelp_id":{"$oid":"5cd711f3fd64d7121c37efc2"},"kaggle_id":"AV1tev-wRxPSIh2RbOGt","restraunt name":"McDonald's","latitude|longitude":"38.68|-90.01"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc621b"},"yelp_id":{"$oid":"5cd711f4fd64d7121c37efc3"},"kaggle_id":"AV5zBcdE3-Khe5l_WZUv","restraunt name":"McDonald's","latitude|longitude":"41.29|-88.29"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc621c"},"yelp_id":{"$oid":"5cd711f4fd64d7121c37efc4"},"kaggle_id":"AVwd_YlhByjofQCxuTWU","restraunt name":"Subway","latitude|longitude":"42.27|-88.0"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc621d"},"yelp_id":{"$oid":"5cd711f5fd64d7121c37efc6"},"kaggle_id":"AVwdb6N8ByjofQCxpGYb","restraunt name":"McDonald's","latitude|longitude":"41.6|-87.6"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc621e"},"yelp_id":{"$oid":"5cd711f6fd64d7121c37efc7"},"kaggle_id":"AVwd_Om1_7pvs4fz_C1e","restraunt name":"McDonald's","latitude|longitude":"42.04|-87.75"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc621f"},"yelp_id":{"$oid":"5cd711f6fd64d7121c37efc8"},"kaggle_id":"AVwd6C7PByjofQCxtjQ3","restraunt name":"McDonald's","latitude|longitude":"41.98|-88.34"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6220"},"yelp_id":{"$oid":"5cd711fcfd64d7121c37efca"},"kaggle_id":"AVwc0JAyByjofQCxie7V","restraunt name":"McDonald's","latitude|longitude":"41.65|-88.6"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6221"},"yelp_id":{"$oid":"5cd711fdfd64d7121c37efcc"},"kaggle_id":"AVweDjc8kufWRAb5_nQu","restraunt name":"McDonald's","latitude|longitude":"42.06|-88.0"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6222"},"yelp_id":{"$oid":"5cd711fdfd64d7121c37efcd"},"kaggle_id":"AVwdMOa2_7pvs4fz3OPe","restraunt name":"McDonald's","latitude|longitude":"42.08|-88.02"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6223"},"yelp_id":{"$oid":"5cd711fefd64d7121c37efce"},"kaggle_id":"AVwdIpJLIN2L1WUfsjjJ","restraunt name":"McDonald's","latitude|longitude":"42.32|-89.03"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6224"},"yelp_id":{"$oid":"5cd711fefd64d7121c37efcf"},"kaggle_id":"AV1gS0pcIxWefVJwfk4u","restraunt name":"McDonald's","latitude|longitude":"38.2|-89.99"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6225"},"yelp_id":{"$oid":"5cd711fffd64d7121c37efd1"},"kaggle_id":"AV1fOWOTa4HuVbed65Oi","restraunt name":"McDonald's","latitude|longitude":"39.61|-90.81"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6226"},"yelp_id":{"$oid":"5cd71200fd64d7121c37efd2"},"kaggle_id":"AVwc5GH4_7pvs4fz0E9Q","restraunt name":"McDonald's","latitude|longitude":"40.7|-89.61"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6227"},"yelp_id":{"$oid":"5cd71201fd64d7121c37efd3"},"kaggle_id":"AVwd6p11IN2L1WUf0WfL","restraunt name":"McDonald's","latitude|longitude":"42.14|-88.02"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6228"},"yelp_id":{"$oid":"5cd71202fd64d7121c37efd5"},"kaggle_id":"AV0aSg8a-gnIPe8DV5dv","restraunt name":"McDonald's","latitude|longitude":"41.3|-89.08"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6229"},"yelp_id":{"$oid":"5cd71202fd64d7121c37efd6"},"kaggle_id":"AVwdaocBkufWRAb55q58","restraunt name":"Taco Bell","latitude|longitude":"42.72|-83.41"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc622a"},"yelp_id":{"$oid":"5cd71203fd64d7121c37efd8"},"kaggle_id":"AVwdSR4c_7pvs4fz4RDZ","restraunt name":"Taco Bell","latitude|longitude":"42.33|-85.51"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc622b"},"yelp_id":{"$oid":"5cd71204fd64d7121c37efd9"},"kaggle_id":"AV0HdUjO3D1zeR_xDORj","restraunt name":"Taco Bell","latitude|longitude":"41.96|-83.67"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc622c"},"yelp_id":{"$oid":"5cd71204fd64d7121c37efda"},"kaggle_id":"AVwdkgVl_7pvs4fz7MJQ","restraunt name":"Taco Bell","latitude|longitude":"42.24|-85.56"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc622d"},"yelp_id":{"$oid":"5cd71205fd64d7121c37efdc"},"kaggle_id":"AVwc0fMB_7pvs4fzzTzW","restraunt name":"Taco Bell","latitude|longitude":"42.28|-83.27"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc622e"},"yelp_id":{"$oid":"5cd71206fd64d7121c37efdd"},"kaggle_id":"AVweZCwjByjofQCxxyUZ","restraunt name":"Taco Bell","latitude|longitude":"42.38|-83.46"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc622f"},"yelp_id":{"$oid":"5cd71207fd64d7121c37efde"},"kaggle_id":"AVwd8svb_7pvs4fz-rdM","restraunt name":"Taco Bell","latitude|longitude":"42.98|-83.69"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6230"},"yelp_id":{"$oid":"5cd71208fd64d7121c37efdf"},"kaggle_id":"AVwch0dMkufWRAb5wKHf","restraunt name":"Taco Bell","latitude|longitude":"42.3|-85.65"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6231"},"yelp_id":{"$oid":"5cd71208fd64d7121c37efe0"},"kaggle_id":"AVwdkRFLByjofQCxqYH9","restraunt name":"Taco Bell","latitude|longitude":"41.93|-83.41"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6232"},"yelp_id":{"$oid":"5cd71209fd64d7121c37efe1"},"kaggle_id":"AVweBwRvIN2L1WUf1WQz","restraunt name":"Taco Bell","latitude|longitude":"43.18|-83.77"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6233"},"yelp_id":{"$oid":"5cd71209fd64d7121c37efe2"},"kaggle_id":"AVwc1g46IN2L1WUfpbb4","restraunt name":"Taco Bell","latitude|longitude":"42.57|-82.89"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6234"},"yelp_id":{"$oid":"5cd7120afd64d7121c37efe3"},"kaggle_id":"AVwc_6_E_7pvs4fz1Moj","restraunt name":"Taco Bell","latitude|longitude":"42.98|-83.77"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6235"},"yelp_id":{"$oid":"5cd7120afd64d7121c37efe4"},"kaggle_id":"AVwchaxxkufWRAb5wE58","restraunt name":"Taco Bell","latitude|longitude":"41.95|-84.65"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6236"},"yelp_id":{"$oid":"5cd7120bfd64d7121c37efe5"},"kaggle_id":"AVwclj4RkufWRAb5w0oL","restraunt name":"Taco Bell","latitude|longitude":"43.02|-85.63"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6237"},"yelp_id":{"$oid":"5cd7120cfd64d7121c37efe7"},"kaggle_id":"AVwdwF-DByjofQCxsKpg","restraunt name":"Taco Bell","latitude|longitude":"38.69|-87.51"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6238"},"yelp_id":{"$oid":"5cd7120dfd64d7121c37efe8"},"kaggle_id":"AV4_R2K9IxWefVJwlrDw","restraunt name":"Taco Bell","latitude|longitude":"40.45|-86.92"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6239"},"yelp_id":{"$oid":"5cd7120efd64d7121c37efea"},"kaggle_id":"AVwcxkAQByjofQCxiDPa","restraunt name":"Taco Bell","latitude|longitude":"41.72|-86.25"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc623a"},"yelp_id":{"$oid":"5cd7120efd64d7121c37efeb"},"kaggle_id":"AVwdUOhFkufWRAb54nTo","restraunt name":"Taco Bell","latitude|longitude":"38.96|-85.87"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc623b"},"yelp_id":{"$oid":"5cd7120ffd64d7121c37efec"},"kaggle_id":"AVwdIVFVkufWRAb52mZa","restraunt name":"Taco Bell","latitude|longitude":"38.34|-85.82"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc623c"},"yelp_id":{"$oid":"5cd71210fd64d7121c37efed"},"kaggle_id":"AV1tgM-B3-Khe5l_OojE","restraunt name":"Steak ’n Shake","latitude|longitude":"40.78|-89.62"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc623d"},"yelp_id":{"$oid":"5cd71210fd64d7121c37efee"},"kaggle_id":"AVwdjn8NByjofQCxqRew","restraunt name":"McDonald's","latitude|longitude":"42.19|-87.8"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc623e"},"yelp_id":{"$oid":"5cd71211fd64d7121c37efef"},"kaggle_id":"AVwdqmTE_7pvs4fz8Ixm","restraunt name":"McDonald's","latitude|longitude":"42.39|-87.96"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc623f"},"yelp_id":{"$oid":"5cd71212fd64d7121c37eff0"},"kaggle_id":"AV0Vjy88FcQ3k02bD9EM","restraunt name":"Taco Bell","latitude|longitude":"42.52|-83.22"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6240"},"yelp_id":{"$oid":"5cd71212fd64d7121c37eff1"},"kaggle_id":"AVwdeHQEIN2L1WUfwJR6","restraunt name":"Taco Bell","latitude|longitude":"42.48|-82.95"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6241"},"yelp_id":{"$oid":"5cd71216fd64d7121c37eff9"},"kaggle_id":"AVweDmZo_7pvs4fz_p3N","restraunt name":"Subway","latitude|longitude":"40.78|-89.75"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6242"},"yelp_id":{"$oid":"5cd71218fd64d7121c37effb"},"kaggle_id":"AVwedV-b_7pvs4fzDKoQ","restraunt name":"Burger King","latitude|longitude":"41.72|-87.62"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6243"},"yelp_id":{"$oid":"5cd71218fd64d7121c37effc"},"kaggle_id":"AVwcmL7bIN2L1WUfmwhz","restraunt name":"Burger King","latitude|longitude":"41.73|-87.78"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6244"},"yelp_id":{"$oid":"5cd71219fd64d7121c37effd"},"kaggle_id":"AVwcwbYakufWRAb5ysGW","restraunt name":"Burger King","latitude|longitude":"41.14|-87.88"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6245"},"yelp_id":{"$oid":"5cd71219fd64d7121c37effe"},"kaggle_id":"AVweEtTb_7pvs4fz_zUZ","restraunt name":"Burger King","latitude|longitude":"41.16|-87.89"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6246"},"yelp_id":{"$oid":"5cd7121afd64d7121c37efff"},"kaggle_id":"AVwcjnF-ByjofQCxfk6j","restraunt name":"Subway","latitude|longitude":"42.96|-83.81"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6247"},"yelp_id":{"$oid":"5cd7121dfd64d7121c37f004"},"kaggle_id":"AVwd5WeTIN2L1WUf0Kbo","restraunt name":"East of Eden Carry-Outs","latitude|longitude":"42.0|-87.75"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6248"},"yelp_id":{"$oid":"5cd7121dfd64d7121c37f005"},"kaggle_id":"AVzoHStL-gnIPe8DT9S6","restraunt name":"McDonald's","latitude|longitude":"42.94|-83.73"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6249"},"yelp_id":{"$oid":"5cd7121efd64d7121c37f006"},"kaggle_id":"AVwcts0dByjofQCxhXtW","restraunt name":"Church's Chicken","latitude|longitude":"42.48|-83.08"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc624a"},"yelp_id":{"$oid":"5cd7121ffd64d7121c37f007"},"kaggle_id":"AVwdKvAekufWRAb52_qP","restraunt name":"Arby's","latitude|longitude":"42.64|-83.03"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc624b"},"yelp_id":{"$oid":"5cd7121ffd64d7121c37f008"},"kaggle_id":"AVwcrsjwByjofQCxhBza","restraunt name":"Arby's","latitude|longitude":"42.37|-83.31"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc624c"},"yelp_id":{"$oid":"5cd71220fd64d7121c37f009"},"kaggle_id":"AVwd2AFwkufWRAb59vdB","restraunt name":"Arby's","latitude|longitude":"42.32|-83.48"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc624d"},"yelp_id":{"$oid":"5cd71221fd64d7121c37f00a"},"kaggle_id":"AVzxrQN-3D1zeR_xC1Wr","restraunt name":"Arby's","latitude|longitude":"42.14|-83.21"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc624e"},"yelp_id":{"$oid":"5cd71221fd64d7121c37f00b"},"kaggle_id":"AVwek35u_7pvs4fzETou","restraunt name":"Arby's","latitude|longitude":"42.51|-83.22"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc624f"},"yelp_id":{"$oid":"5cd71222fd64d7121c37f00c"},"kaggle_id":"AVwdXkblByjofQCxoYjH","restraunt name":"Subway","latitude|longitude":"38.75|-89.68"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6250"},"yelp_id":{"$oid":"5cd71223fd64d7121c37f00e"},"kaggle_id":"AVweNbR2IN2L1WUf28eF","restraunt name":"Culver's","latitude|longitude":"42.52|-82.91"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6251"},"yelp_id":{"$oid":"5cd71224fd64d7121c37f00f"},"kaggle_id":"AV12huNERxPSIh2RcPVp","restraunt name":"Taco Bell","latitude|longitude":"42.28|-88.04"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6252"},"yelp_id":{"$oid":"5cd71225fd64d7121c37f011"},"kaggle_id":"AVweChATIN2L1WUf1dOu","restraunt name":"Subway","latitude|longitude":"42.25|-85.59"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6253"},"yelp_id":{"$oid":"5cd71225fd64d7121c37f012"},"kaggle_id":"AVwd94xkkufWRAb5-0sd","restraunt name":"Taco Bell","latitude|longitude":"41.83|-87.9"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6254"},"yelp_id":{"$oid":"5cd71226fd64d7121c37f013"},"kaggle_id":"AVwdf8x6IN2L1WUfwasj","restraunt name":"Taco Bell","latitude|longitude":"39.79|-86.06"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6255"},"yelp_id":{"$oid":"5cd71226fd64d7121c37f014"},"kaggle_id":"AVwcrjlCByjofQCxhAXG","restraunt name":"Taco Bell","latitude|longitude":"39.91|-86.22"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6256"},"yelp_id":{"$oid":"5cd71227fd64d7121c37f015"},"kaggle_id":"AVzBBgV0LD2H7whiWKKB","restraunt name":"Taco Bell","latitude|longitude":"39.61|-86.08"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6257"},"yelp_id":{"$oid":"5cd71228fd64d7121c37f016"},"kaggle_id":"AVwcwV35_7pvs4fzyncD","restraunt name":"Taco Bell","latitude|longitude":"41.51|-87.31"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6258"},"yelp_id":{"$oid":"5cd71229fd64d7121c37f018"},"kaggle_id":"AVwchtH_ByjofQCxfNom","restraunt name":"Taco Bell","latitude|longitude":"41.08|-85.14"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6259"},"yelp_id":{"$oid":"5cd7122afd64d7121c37f019"},"kaggle_id":"AVwcssOUkufWRAb5yD5f","restraunt name":"Taco Bell","latitude|longitude":"41.14|-85.16"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc625a"},"yelp_id":{"$oid":"5cd7122afd64d7121c37f01a"},"kaggle_id":"AVweAKvi_7pvs4fz_K0F","restraunt name":"Taco Bell","latitude|longitude":"41.12|-85.14"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc625b"},"yelp_id":{"$oid":"5cd7122bfd64d7121c37f01b"},"kaggle_id":"AVwc7sAf_7pvs4fz0gh_","restraunt name":"Taco Bell","latitude|longitude":"41.72|-85.97"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc625c"},"yelp_id":{"$oid":"5cd7122bfd64d7121c37f01c"},"kaggle_id":"AVwcuuK9kufWRAb5yZHT","restraunt name":"Taco Bell","latitude|longitude":"38.24|-86.13"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc625d"},"yelp_id":{"$oid":"5cd7122cfd64d7121c37f01d"},"kaggle_id":"AV5UTpnMRxPSIh2RiOAx","restraunt name":"Taco Bell","latitude|longitude":"39.66|-85.13"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc625e"},"yelp_id":{"$oid":"5cd7122dfd64d7121c37f01e"},"kaggle_id":"AVwc3NBXkufWRAb5zzlU","restraunt name":"Fat Boy Burgers","latitude|longitude":"43.01|-85.65"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc625f"},"yelp_id":{"$oid":"5cd7122dfd64d7121c37f01f"},"kaggle_id":"AVwc3ZURByjofQCxjCfm","restraunt name":"Jimmy John's","latitude|longitude":"42.38|-83.33"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6260"},"yelp_id":{"$oid":"5cd7122efd64d7121c37f020"},"kaggle_id":"AVwcw71SkufWRAb5yxeE","restraunt name":"Dairy Queen","latitude|longitude":"42.52|-83.14"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6261"},"yelp_id":{"$oid":"5cd7122ffd64d7121c37f021"},"kaggle_id":"AVwd-5sS_7pvs4fz-_uO","restraunt name":"Jimmy John's","latitude|longitude":"41.95|-83.4"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6262"},"yelp_id":{"$oid":"5cd71230fd64d7121c37f023"},"kaggle_id":"AVwdLL86ByjofQCxmRuf","restraunt name":"Subway","latitude|longitude":"40.11|-88.16"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6263"},"yelp_id":{"$oid":"5cd71231fd64d7121c37f024"},"kaggle_id":"AVwdxGSSByjofQCxsT_C","restraunt name":"Subway","latitude|longitude":"40.93|-87.16"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6264"},"yelp_id":{"$oid":"5cd71232fd64d7121c37f027"},"kaggle_id":"AVwd6UQMIN2L1WUf0TMy","restraunt name":"Subway","latitude|longitude":"41.76|-87.59"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6265"},"yelp_id":{"$oid":"5cd71233fd64d7121c37f028"},"kaggle_id":"AVwd8g6JkufWRAb5-oG1","restraunt name":"Subway","latitude|longitude":"41.76|-87.68"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6266"},"yelp_id":{"$oid":"5cd71234fd64d7121c37f029"},"kaggle_id":"AVwct1R_IN2L1WUfoGVP","restraunt name":"Subway","latitude|longitude":"42.51|-84.66"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6267"},"yelp_id":{"$oid":"5cd71234fd64d7121c37f02a"},"kaggle_id":"AVweYSynByjofQCxxr2n","restraunt name":"Subway","latitude|longitude":"43.85|-83.97"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6268"},"yelp_id":{"$oid":"5cd71235fd64d7121c37f02b"},"kaggle_id":"AV53fDYYIxWefVJwp20T","restraunt name":"Subway","latitude|longitude":"42.73|-84.48"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6269"},"yelp_id":{"$oid":"5cd71235fd64d7121c37f02c"},"kaggle_id":"AVwdV_zhByjofQCxoHkb","restraunt name":"Subway","latitude|longitude":"42.28|-83.44"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc626a"},"yelp_id":{"$oid":"5cd71236fd64d7121c37f02d"},"kaggle_id":"AVwctPLlIN2L1WUfn_sD","restraunt name":"Subway","latitude|longitude":"42.23|-83.68"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc626b"},"yelp_id":{"$oid":"5cd71236fd64d7121c37f02e"},"kaggle_id":"AVwcgM90kufWRAb5v2mm","restraunt name":"Subway","latitude|longitude":"42.29|-84.2"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc626c"},"yelp_id":{"$oid":"5cd71237fd64d7121c37f030"},"kaggle_id":"AVwcrCghByjofQCxg6Mz","restraunt name":"Subway","latitude|longitude":"42.34|-83.39"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc626d"},"yelp_id":{"$oid":"5cd71238fd64d7121c37f031"},"kaggle_id":"AVwdKanOIN2L1WUfs2fB","restraunt name":"Subway","latitude|longitude":"42.67|-85.99"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc626e"},"yelp_id":{"$oid":"5cd71238fd64d7121c37f032"},"kaggle_id":"AVwdBa-_IN2L1WUfrZan","restraunt name":"Subway","latitude|longitude":"41.95|-87.69"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc626f"},"yelp_id":{"$oid":"5cd7123afd64d7121c37f035"},"kaggle_id":"AVweP8lSkufWRAb5BScY","restraunt name":"Sunrise Gyros","latitude|longitude":"41.75|-87.65"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6270"},"yelp_id":{"$oid":"5cd7123afd64d7121c37f036"},"kaggle_id":"AVweIklrkufWRAb5ASt5","restraunt name":"Culver's","latitude|longitude":"39.99|-85.92"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6271"},"yelp_id":{"$oid":"5cd7123bfd64d7121c37f037"},"kaggle_id":"AVwc-csNIN2L1WUfq6lj","restraunt name":"McDonald's","latitude|longitude":"39.64|-86.33"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6272"},"yelp_id":{"$oid":"5cd7123cfd64d7121c37f039"},"kaggle_id":"AV1jrpBDRxPSIh2Raxb3","restraunt name":"McDonald's","latitude|longitude":"38.05|-87.28"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6273"},"yelp_id":{"$oid":"5cd7123cfd64d7121c37f03a"},"kaggle_id":"AV1te1MYIxWefVJwgyxf","restraunt name":"McDonald's","latitude|longitude":"38.86|-86.52"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6274"},"yelp_id":{"$oid":"5cd7123efd64d7121c37f03c"},"kaggle_id":"AVwdH68xByjofQCxlveM","restraunt name":"Pizza Hut","latitude|longitude":"39.77|-89.69"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6275"},"yelp_id":{"$oid":"5cd7123efd64d7121c37f03d"},"kaggle_id":"AV1gzlE13-Khe5l_NoOH","restraunt name":"Penn Station East Coast Subs","latitude|longitude":"39.83|-84.88"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6276"},"yelp_id":{"$oid":"5cd7123ffd64d7121c37f03e"},"kaggle_id":"AVwcw45u_7pvs4fzytQ7","restraunt name":"Penn Station East Coast Subs","latitude|longitude":"39.96|-86.0"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6277"},"yelp_id":{"$oid":"5cd71240fd64d7121c37f040"},"kaggle_id":"AVwduFgfkufWRAb58okW","restraunt name":"Arby's","latitude|longitude":"39.52|-85.74"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6278"},"yelp_id":{"$oid":"5cd71241fd64d7121c37f042"},"kaggle_id":"AVweeQNZByjofQCxyh4j","restraunt name":"Jack in the Box","latitude|longitude":"39.8|-86.01"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6279"},"yelp_id":{"$oid":"5cd71242fd64d7121c37f043"},"kaggle_id":"AVwczp9i_7pvs4fzzK1-","restraunt name":"Jack in the Box","latitude|longitude":"39.82|-86.26"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc627a"},"yelp_id":{"$oid":"5cd71242fd64d7121c37f044"},"kaggle_id":"AVwdiI2PIN2L1WUfwv2W","restraunt name":"Gyros Express","latitude|longitude":"41.5|-87.64"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc627b"},"yelp_id":{"$oid":"5cd71243fd64d7121c37f045"},"kaggle_id":"AVwc7RjtByjofQCxjsoD","restraunt name":"Taco Bell","latitude|longitude":"41.6|-88.02"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc627c"},"yelp_id":{"$oid":"5cd71244fd64d7121c37f046"},"kaggle_id":"AVzxpRyb-gnIPe8DUVGU","restraunt name":"Sonic Drive-In","latitude|longitude":"42.56|-83.44"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc627d"},"yelp_id":{"$oid":"5cd71244fd64d7121c37f047"},"kaggle_id":"AVwc7Vtr_7pvs4fz0c3u","restraunt name":"Dairy Queen Grill & Chill","latitude|longitude":"41.68|-85.7"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc627e"},"yelp_id":{"$oid":"5cd71245fd64d7121c37f048"},"kaggle_id":"AVwdeYcmByjofQCxpe7A","restraunt name":"McDonald's","latitude|longitude":"41.93|-86.57"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc627f"},"yelp_id":{"$oid":"5cd71246fd64d7121c37f049"},"kaggle_id":"AVwch5O8IN2L1WUfl80M","restraunt name":"Rally's","latitude|longitude":"41.87|-84.04"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6280"},"yelp_id":{"$oid":"5cd71246fd64d7121c37f04a"},"kaggle_id":"AVweIz8lkufWRAb5AUxN","restraunt name":"Jimmy John's","latitude|longitude":"42.34|-87.9"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6281"},"yelp_id":{"$oid":"5cd71247fd64d7121c37f04b"},"kaggle_id":"AVwdZp1xByjofQCxoub7","restraunt name":"Jimmy John's","latitude|longitude":"42.26|-88.16"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6282"},"yelp_id":{"$oid":"5cd71247fd64d7121c37f04c"},"kaggle_id":"AVwcjh9QByjofQCxfj6V","restraunt name":"Jimmy John's","latitude|longitude":"42.25|-88.0"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6283"},"yelp_id":{"$oid":"5cd71248fd64d7121c37f04d"},"kaggle_id":"AVwci68ZkufWRAb5wW5S","restraunt name":"McDonald's","latitude|longitude":"42.39|-87.85"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6284"},"yelp_id":{"$oid":"5cd71249fd64d7121c37f04f"},"kaggle_id":"AV0Hb5b6-gnIPe8DUwAv","restraunt name":"Wendy's","latitude|longitude":"41.67|-85.0"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6285"},"yelp_id":{"$oid":"5cd7124afd64d7121c37f050"},"kaggle_id":"AVwdvhq-IN2L1WUfyyUq","restraunt name":"Subway","latitude|longitude":"42.59|-86.1"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6286"},"yelp_id":{"$oid":"5cd7124bfd64d7121c37f052"},"kaggle_id":"AVwdrafKByjofQCxrfZK","restraunt name":"Taco Bell","latitude|longitude":"42.3|-85.2"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6287"},"yelp_id":{"$oid":"5cd7124bfd64d7121c37f053"},"kaggle_id":"AVwd_N27_7pvs4fz_CuS","restraunt name":"McDonald's","latitude|longitude":"43.85|-84.02"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6288"},"yelp_id":{"$oid":"5cd7124cfd64d7121c37f054"},"kaggle_id":"AVwdlfjRkufWRAb57Vgh","restraunt name":"McDonald's","latitude|longitude":"44.25|-84.23"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6289"},"yelp_id":{"$oid":"5cd7124dfd64d7121c37f056"},"kaggle_id":"AV1XWoXhLD2H7whiaQPs","restraunt name":"Pizza Hut","latitude|longitude":"41.62|-87.04"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc628a"},"yelp_id":{"$oid":"5cd7124efd64d7121c37f057"},"kaggle_id":"AVwdz0HbByjofQCxstGr","restraunt name":"Taco Bell","latitude|longitude":"42.37|-89.03"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc628b"},"yelp_id":{"$oid":"5cd7124ffd64d7121c37f059"},"kaggle_id":"AVwdu9-skufWRAb58wjP","restraunt name":"Wendy's","latitude|longitude":"42.21|-83.36"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc628c"},"yelp_id":{"$oid":"5cd71250fd64d7121c37f05a"},"kaggle_id":"AVwcvVJxkufWRAb5ygGM","restraunt name":"McDonald's","latitude|longitude":"41.62|-87.57"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc628d"},"yelp_id":{"$oid":"5cd71250fd64d7121c37f05b"},"kaggle_id":"AVwc_ynjIN2L1WUfrI0l","restraunt name":"White Castle","latitude|longitude":"41.68|-87.5"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc628e"},"yelp_id":{"$oid":"5cd71251fd64d7121c37f05c"},"kaggle_id":"AVwc4EIL_7pvs4fzz5pM","restraunt name":"White Castle","latitude|longitude":"41.75|-87.66"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc628f"},"yelp_id":{"$oid":"5cd71252fd64d7121c37f05e"},"kaggle_id":"AVwdP_-TkufWRAb536Fj","restraunt name":"KFC","latitude|longitude":"41.7|-87.74"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6290"},"yelp_id":{"$oid":"5cd71253fd64d7121c37f05f"},"kaggle_id":"AVwduLWX_7pvs4fz8qCU","restraunt name":"Burger King","latitude|longitude":"42.99|-84.55"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6291"},"yelp_id":{"$oid":"5cd71253fd64d7121c37f060"},"kaggle_id":"AVwdTqv1kufWRAb54hZ8","restraunt name":"Wendy's","latitude|longitude":"42.99|-84.54"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6292"},"yelp_id":{"$oid":"5cd71254fd64d7121c37f061"},"kaggle_id":"AVwcm9HRIN2L1WUfm5Xu","restraunt name":"Wendy's","latitude|longitude":"39.94|-86.24"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6293"},"yelp_id":{"$oid":"5cd71254fd64d7121c37f062"},"kaggle_id":"AVwdeukhByjofQCxph-o","restraunt name":"Subway","latitude|longitude":"42.0|-88.31"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6294"},"yelp_id":{"$oid":"5cd71255fd64d7121c37f063"},"kaggle_id":"AVweL2XK_7pvs4fzAyKc","restraunt name":"Wendy's","latitude|longitude":"41.75|-88.17"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6295"},"yelp_id":{"$oid":"5cd71255fd64d7121c37f064"},"kaggle_id":"AVwdRsP4kufWRAb54MwI","restraunt name":"Wendy's","latitude|longitude":"42.01|-87.81"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6296"},"yelp_id":{"$oid":"5cd71256fd64d7121c37f065"},"kaggle_id":"AVwcti8lByjofQCxhWDs","restraunt name":"Wendy's","latitude|longitude":"41.72|-88.32"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6297"},"yelp_id":{"$oid":"5cd71257fd64d7121c37f066"},"kaggle_id":"AV1iqODn3-Khe5l_OAWy","restraunt name":"Wendy's","latitude|longitude":"41.47|-90.48"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6298"},"yelp_id":{"$oid":"5cd71257fd64d7121c37f067"},"kaggle_id":"AVwd5egikufWRAb5-NtJ","restraunt name":"Wendy's","latitude|longitude":"39.14|-88.56"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6299"},"yelp_id":{"$oid":"5cd71258fd64d7121c37f068"},"kaggle_id":"AVzoBwCa-gnIPe8DT3KA","restraunt name":"Wendy's","latitude|longitude":"41.51|-87.67"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc629a"},"yelp_id":{"$oid":"5cd71258fd64d7121c37f069"},"kaggle_id":"AVwc9okf_7pvs4fz00EX","restraunt name":"Wendy's","latitude|longitude":"41.58|-87.56"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc629b"},"yelp_id":{"$oid":"5cd71259fd64d7121c37f06a"},"kaggle_id":"AVwcqejMkufWRAb5xrLJ","restraunt name":"Wendy's","latitude|longitude":"41.75|-88.02"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc629c"},"yelp_id":{"$oid":"5cd7125afd64d7121c37f06b"},"kaggle_id":"AVwc6I41_7pvs4fz0QDC","restraunt name":"Wendy's","latitude|longitude":"41.95|-87.69"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc629d"},"yelp_id":{"$oid":"5cd7125afd64d7121c37f06c"},"kaggle_id":"AVwc51IRByjofQCxjcq7","restraunt name":"Wendy's","latitude|longitude":"42.22|-88.26"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc629e"},"yelp_id":{"$oid":"5cd7125bfd64d7121c37f06e"},"kaggle_id":"AVwdzbV-_7pvs4fz9aBJ","restraunt name":"Wendy's","latitude|longitude":"41.79|-87.63"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc629f"},"yelp_id":{"$oid":"5cd7125cfd64d7121c37f06f"},"kaggle_id":"AVwcoAugByjofQCxgYJF","restraunt name":"Wendy's","latitude|longitude":"41.97|-87.68"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62a0"},"yelp_id":{"$oid":"5cd7125cfd64d7121c37f070"},"kaggle_id":"AVwctOGMByjofQCxhSY4","restraunt name":"Subway","latitude|longitude":"42.34|-85.15"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62a1"},"yelp_id":{"$oid":"5cd7125dfd64d7121c37f071"},"kaggle_id":"AVweeWTXIN2L1WUf5QrL","restraunt name":"Checkers","latitude|longitude":"42.79|-86.08"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62a2"},"yelp_id":{"$oid":"5cd7125dfd64d7121c37f072"},"kaggle_id":"AVwdCzU0IN2L1WUfrn2l","restraunt name":"Fazoli's","latitude|longitude":"39.77|-86.04"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62a3"},"yelp_id":{"$oid":"5cd7125efd64d7121c37f073"},"kaggle_id":"AV1eQd3E3-Khe5l_NAoO","restraunt name":"KFC","latitude|longitude":"40.48|-89.02"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62a4"},"yelp_id":{"$oid":"5cd7125efd64d7121c37f074"},"kaggle_id":"AVzA-OdxLD2H7whiWINk","restraunt name":"McDonald's","latitude|longitude":"42.88|-85.74"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62a5"},"yelp_id":{"$oid":"5cd7125ffd64d7121c37f075"},"kaggle_id":"AV0eKRJ5FcQ3k02bFBuR","restraunt name":"Wetzel's Pretzels","latitude|longitude":"42.88|-85.76"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62a6"},"yelp_id":{"$oid":"5cd7125ffd64d7121c37f076"},"kaggle_id":"AVwc8qFqByjofQCxj7eF","restraunt name":"Wendy's","latitude|longitude":"42.23|-84.42"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62a7"},"yelp_id":{"$oid":"5cd71260fd64d7121c37f078"},"kaggle_id":"AVwdOi2R_7pvs4fz3n3F","restraunt name":"Panda Express","latitude|longitude":"42.26|-87.95"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62a8"},"yelp_id":{"$oid":"5cd71261fd64d7121c37f079"},"kaggle_id":"AVwd3XFAIN2L1WUfz5BC","restraunt name":"McDonald's","latitude|longitude":"42.26|-88.15"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62a9"},"yelp_id":{"$oid":"5cd71262fd64d7121c37f07b"},"kaggle_id":"AVwczNlxkufWRAb5zKBD","restraunt name":"Subway","latitude|longitude":"41.85|-84.36"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62aa"},"yelp_id":{"$oid":"5cd71264fd64d7121c37f07e"},"kaggle_id":"AVwctQK0kufWRAb5yKG4","restraunt name":"Culver's","latitude|longitude":"41.79|-88.32"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62ab"},"yelp_id":{"$oid":"5cd71264fd64d7121c37f07f"},"kaggle_id":"AVwdAGax_7pvs4fz1Oph","restraunt name":"Culver's","latitude|longitude":"41.47|-90.48"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62ac"},"yelp_id":{"$oid":"5cd71266fd64d7121c37f081"},"kaggle_id":"AVz51IJ5FcQ3k02bDe-9","restraunt name":"Culver's","latitude|longitude":"42.28|-87.94"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62ad"},"yelp_id":{"$oid":"5cd71267fd64d7121c37f083"},"kaggle_id":"AV1tg106RxPSIh2RbbZC","restraunt name":"Culver's","latitude|longitude":"40.68|-89.59"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62ae"},"yelp_id":{"$oid":"5cd71268fd64d7121c37f085"},"kaggle_id":"AVwefah4ByjofQCxytRQ","restraunt name":"Culver's","latitude|longitude":"42.12|-88.34"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62af"},"yelp_id":{"$oid":"5cd71268fd64d7121c37f086"},"kaggle_id":"AVwdA2rdIN2L1WUfrTNx","restraunt name":"Culver's","latitude|longitude":"41.75|-87.96"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62b0"},"yelp_id":{"$oid":"5cd71269fd64d7121c37f087"},"kaggle_id":"AV1tfPD-RxPSIh2RbQmT","restraunt name":"Culver's","latitude|longitude":"40.09|-88.25"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62b1"},"yelp_id":{"$oid":"5cd71269fd64d7121c37f088"},"kaggle_id":"AVwc4kJN_7pvs4fzz-kb","restraunt name":"Burger King","latitude|longitude":"41.84|-87.67"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62b2"},"yelp_id":{"$oid":"5cd7126afd64d7121c37f089"},"kaggle_id":"AVweBYab_7pvs4fz_V5u","restraunt name":"QDOBA Mexican Eats","latitude|longitude":"42.74|-84.51"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62b3"},"yelp_id":{"$oid":"5cd7126afd64d7121c37f08a"},"kaggle_id":"AVwc8zSmkufWRAb50vPO","restraunt name":"McDonald's","latitude|longitude":"42.68|-84.52"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62b4"},"yelp_id":{"$oid":"5cd7126bfd64d7121c37f08b"},"kaggle_id":"AVwcmaYFkufWRAb5w-Zm","restraunt name":"Subway","latitude|longitude":"42.54|-83.18"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62b5"},"yelp_id":{"$oid":"5cd7126bfd64d7121c37f08c"},"kaggle_id":"AVwc5_-RIN2L1WUfqLvm","restraunt name":"Sonic Drive-In","latitude|longitude":"42.49|-83.15"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62b6"},"yelp_id":{"$oid":"5cd7126cfd64d7121c37f08d"},"kaggle_id":"AVwcn2kCByjofQCxgWhe","restraunt name":"Wendy's","latitude|longitude":"43.23|-86.19"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62b7"},"yelp_id":{"$oid":"5cd7126dfd64d7121c37f08e"},"kaggle_id":"AVzxolWe3D1zeR_xCyOm","restraunt name":"McDonald's","latitude|longitude":"43.19|-86.26"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62b8"},"yelp_id":{"$oid":"5cd7126dfd64d7121c37f08f"},"kaggle_id":"AVwdJY4mIN2L1WUfsrlg","restraunt name":"Panera Bread","latitude|longitude":"42.19|-87.8"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62b9"},"yelp_id":{"$oid":"5cd7126efd64d7121c37f090"},"kaggle_id":"AVwdF8Cc_7pvs4fz2Ljo","restraunt name":"Culvers of Mundelein","latitude|longitude":"42.24|-87.99"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62ba"},"yelp_id":{"$oid":"5cd7126ffd64d7121c37f093"},"kaggle_id":"AVwc4kdNByjofQCxjOlO","restraunt name":"McDonald's","latitude|longitude":"42.0|-88.32"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62bb"},"yelp_id":{"$oid":"5cd71270fd64d7121c37f094"},"kaggle_id":"AVwc57XgkufWRAb50RNA","restraunt name":"Burger King","latitude|longitude":"42.0|-88.3"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62bc"},"yelp_id":{"$oid":"5cd71271fd64d7121c37f096"},"kaggle_id":"AVwdzpMQByjofQCxsrXv","restraunt name":"Dairy Queen","latitude|longitude":"41.12|-87.88"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62bd"},"yelp_id":{"$oid":"5cd71276fd64d7121c37f097"},"kaggle_id":"AVwdlDtukufWRAb57RWx","restraunt name":"Dairy Queen","latitude|longitude":"38.73|-88.09"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62be"},"yelp_id":{"$oid":"5cd71276fd64d7121c37f098"},"kaggle_id":"AVweOk_ikufWRAb5BGyS","restraunt name":"Einstein Bros Bagels","latitude|longitude":"41.89|-87.63"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62bf"},"yelp_id":{"$oid":"5cd71277fd64d7121c37f09a"},"kaggle_id":"AVwdXTpokufWRAb55IiI","restraunt name":"7-Eleven","latitude|longitude":"41.94|-87.79"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62c0"},"yelp_id":{"$oid":"5cd71278fd64d7121c37f09b"},"kaggle_id":"AVwd689M_7pvs4fz-b__","restraunt name":"Panera Bread","latitude|longitude":"41.99|-87.71"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62c1"},"yelp_id":{"$oid":"5cd71279fd64d7121c37f09c"},"kaggle_id":"AVwejSa9IN2L1WUf6AIX","restraunt name":"McDonald's","latitude|longitude":"41.96|-87.71"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62c2"},"yelp_id":{"$oid":"5cd71279fd64d7121c37f09d"},"kaggle_id":"AV5xzTt23-Khe5l_WRVd","restraunt name":"Taco Bell","latitude|longitude":"41.45|-85.25"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62c3"},"yelp_id":{"$oid":"5cd7127bfd64d7121c37f0a1"},"kaggle_id":"AVwdxmN9_7pvs4fz9J-C","restraunt name":"Subway","latitude|longitude":"42.76|-84.54"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62c4"},"yelp_id":{"$oid":"5cd7127cfd64d7121c37f0a3"},"kaggle_id":"AVweDLUIByjofQCxu1d4","restraunt name":"Happy Dragon","latitude|longitude":"39.72|-86.36"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62c5"},"yelp_id":{"$oid":"5cd7127dfd64d7121c37f0a4"},"kaggle_id":"AVwdyTu2_7pvs4fz9Qek","restraunt name":"Bob Evans","latitude|longitude":"41.18|-85.11"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62c6"},"yelp_id":{"$oid":"5cd7127efd64d7121c37f0a5"},"kaggle_id":"AVwc4xZuIN2L1WUfp-K6","restraunt name":"Wendy's","latitude|longitude":"41.77|-88.31"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62c7"},"yelp_id":{"$oid":"5cd7127efd64d7121c37f0a6"},"kaggle_id":"AVwchN6MIN2L1WUfl0v3","restraunt name":"Wendy's","latitude|longitude":"41.59|-87.72"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62c8"},"yelp_id":{"$oid":"5cd7127ffd64d7121c37f0a8"},"kaggle_id":"AVwejIaTkufWRAb5D-WH","restraunt name":"Mooney's Ice Cream Store","latitude|longitude":"43.44|-84.03"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62c9"},"yelp_id":{"$oid":"5cd71280fd64d7121c37f0aa"},"kaggle_id":"AVwdECM1kufWRAb5169Q","restraunt name":"KFC","latitude|longitude":"44.25|-84.22"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62ca"},"yelp_id":{"$oid":"5cd71281fd64d7121c37f0ab"},"kaggle_id":"AVwdNCW__7pvs4fz3XTB","restraunt name":"McDonald's","latitude|longitude":"44.24|-85.45"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62cb"},"yelp_id":{"$oid":"5cd71282fd64d7121c37f0ac"},"kaggle_id":"AVweG_KcByjofQCxvWbX","restraunt name":"Subway","latitude|longitude":"41.95|-87.71"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62cc"},"yelp_id":{"$oid":"5cd71283fd64d7121c37f0ad"},"kaggle_id":"AVwebaAAIN2L1WUf40mW","restraunt name":"Culver's","latitude|longitude":"43.66|-84.25"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62cd"},"yelp_id":{"$oid":"5cd71283fd64d7121c37f0ae"},"kaggle_id":"AVwcuOCmByjofQCxhdPT","restraunt name":"Rally's","latitude|longitude":"38.9|-90.06"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62ce"},"yelp_id":{"$oid":"5cd71284fd64d7121c37f0af"},"kaggle_id":"AV12lp_QIxWefVJwiWYo","restraunt name":"McDonald's","latitude|longitude":"42.54|-83.79"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62cf"},"yelp_id":{"$oid":"5cd71284fd64d7121c37f0b0"},"kaggle_id":"AVwcqO3v_7pvs4fzxkZy","restraunt name":"Jimmy John's","latitude|longitude":"42.78|-86.07"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62d0"},"yelp_id":{"$oid":"5cd71285fd64d7121c37f0b1"},"kaggle_id":"AV47NGTtRxPSIh2RfZqM","restraunt name":"Sonic Drive-In","latitude|longitude":"42.32|-89.03"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62d1"},"yelp_id":{"$oid":"5cd71285fd64d7121c37f0b2"},"kaggle_id":"AV4vYBPLRxPSIh2Re4zS","restraunt name":"Sonic Drive-In","latitude|longitude":"42.24|-88.98"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62d2"},"yelp_id":{"$oid":"5cd71286fd64d7121c37f0b4"},"kaggle_id":"AVwd8Y_6ByjofQCxt4Ux","restraunt name":"White Castle","latitude|longitude":"38.53|-90.03"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62d3"},"yelp_id":{"$oid":"5cd71287fd64d7121c37f0b5"},"kaggle_id":"AVwcr6Hd_7pvs4fzx3iO","restraunt name":"Flushing A","latitude|longitude":"43.06|-83.85"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62d4"},"yelp_id":{"$oid":"5cd7128afd64d7121c37f0b9"},"kaggle_id":"AV1gfKqpIxWefVJwfn8N","restraunt name":"Sonic Drive-In","latitude|longitude":"38.69|-89.97"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62d5"},"yelp_id":{"$oid":"5cd7128bfd64d7121c37f0ba"},"kaggle_id":"AV12bEViRxPSIh2Rb5LR","restraunt name":"McDonald's","latitude|longitude":"42.54|-83.48"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62d6"},"yelp_id":{"$oid":"5cd7128bfd64d7121c37f0bb"},"kaggle_id":"AVwdm-upByjofQCxqzkp","restraunt name":"Rally's","latitude|longitude":"39.22|-85.89"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62d7"},"yelp_id":{"$oid":"5cd7128cfd64d7121c37f0bd"},"kaggle_id":"AVwcpwqV_7pvs4fzxfge","restraunt name":"KFC","latitude|longitude":"41.56|-87.52"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62d8"},"yelp_id":{"$oid":"5cd7128dfd64d7121c37f0be"},"kaggle_id":"AVwcg6AJByjofQCxfENL","restraunt name":"McDonald's","latitude|longitude":"42.63|-83.74"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62d9"},"yelp_id":{"$oid":"5cd7128dfd64d7121c37f0bf"},"kaggle_id":"AVwcxno9IN2L1WUfoxAV","restraunt name":"Rally's","latitude|longitude":"43.59|-83.89"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62da"},"yelp_id":{"$oid":"5cd7128efd64d7121c37f0c0"},"kaggle_id":"AV0HKA3n-gnIPe8DUv9q","restraunt name":"Arby's","latitude|longitude":"43.01|-82.45"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62db"},"yelp_id":{"$oid":"5cd7128efd64d7121c37f0c1"},"kaggle_id":"AVwdLMJzkufWRAb53EXO","restraunt name":"McDonald's","latitude|longitude":"41.49|-87.47"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62dc"},"yelp_id":{"$oid":"5cd7128ffd64d7121c37f0c3"},"kaggle_id":"AVweTMfiByjofQCxxAUx","restraunt name":"White Castle","latitude|longitude":"41.47|-87.34"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62dd"},"yelp_id":{"$oid":"5cd71291fd64d7121c37f0c5"},"kaggle_id":"AVwdaeqC_7pvs4fz5ohy","restraunt name":"Subway","latitude|longitude":"41.87|-87.63"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62de"},"yelp_id":{"$oid":"5cd71291fd64d7121c37f0c6"},"kaggle_id":"AVwdfy0DByjofQCxpsDT","restraunt name":"Burger King","latitude|longitude":"42.01|-83.96"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62df"},"yelp_id":{"$oid":"5cd71292fd64d7121c37f0c7"},"kaggle_id":"AVz1YjLb-gnIPe8DUYCG","restraunt name":"Fratellos Hot Dogs","latitude|longitude":"42.32|-88.17"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62e0"},"yelp_id":{"$oid":"5cd71292fd64d7121c37f0c8"},"kaggle_id":"AVwdxCE3_7pvs4fz9Eye","restraunt name":"Wendy's","latitude|longitude":"41.66|-87.8"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62e1"},"yelp_id":{"$oid":"5cd71293fd64d7121c37f0c9"},"kaggle_id":"AVwc8P2CByjofQCxj3Cw","restraunt name":"Popeyes Louisiana Kitchen","latitude|longitude":"42.06|-88.32"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62e2"},"yelp_id":{"$oid":"5cd71294fd64d7121c37f0cb"},"kaggle_id":"AVwdkPqhIN2L1WUfxE8y","restraunt name":"McDonald's","latitude|longitude":"42.36|-87.83"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62e3"},"yelp_id":{"$oid":"5cd71295fd64d7121c37f0cc"},"kaggle_id":"AVwelHBdByjofQCxzj1q","restraunt name":"Quiznos","latitude|longitude":"41.93|-86.57"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62e4"},"yelp_id":{"$oid":"5cd71295fd64d7121c37f0cd"},"kaggle_id":"AVwd5J4SkufWRAb5-LEw","restraunt name":"Wendy's","latitude|longitude":"39.09|-84.87"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62e5"},"yelp_id":{"$oid":"5cd71296fd64d7121c37f0ce"},"kaggle_id":"AVwcr151kufWRAb5x6yh","restraunt name":"McDonald's","latitude|longitude":"41.68|-86.0"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62e6"},"yelp_id":{"$oid":"5cd71296fd64d7121c37f0cf"},"kaggle_id":"AVwduezfIN2L1WUfyoqT","restraunt name":"Arby's","latitude|longitude":"42.91|-82.49"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62e7"},"yelp_id":{"$oid":"5cd71297fd64d7121c37f0d0"},"kaggle_id":"AV1eQXMma4HuVbed6qmG","restraunt name":"Jimmy John's","latitude|longitude":"44.76|-85.59"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62e8"},"yelp_id":{"$oid":"5cd71298fd64d7121c37f0d1"},"kaggle_id":"AVwdEQTRIN2L1WUfr3ro","restraunt name":"Sonic Drive-In","latitude|longitude":"41.6|-88.03"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62e9"},"yelp_id":{"$oid":"5cd71298fd64d7121c37f0d2"},"kaggle_id":"AVwdgd91IN2L1WUfwgFj","restraunt name":"Jimmy John's","latitude|longitude":"41.83|-88.09"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62ea"},"yelp_id":{"$oid":"5cd71299fd64d7121c37f0d3"},"kaggle_id":"AVwc3xpm_7pvs4fzz2tF","restraunt name":"Sam's Pizza Restaurant","latitude|longitude":"42.45|-89.07"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62eb"},"yelp_id":{"$oid":"5cd7129afd64d7121c37f0d5"},"kaggle_id":"AVwcv35AIN2L1WUfocvj","restraunt name":"McDonald's","latitude|longitude":"43.69|-85.48"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62ec"},"yelp_id":{"$oid":"5cd7129bfd64d7121c37f0d7"},"kaggle_id":"AVwcyPHekufWRAb5y_np","restraunt name":"Five Guys","latitude|longitude":"41.87|-87.63"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62ed"},"yelp_id":{"$oid":"5cd7129bfd64d7121c37f0d8"},"kaggle_id":"AVwc6WqvByjofQCxjipE","restraunt name":"King Gyros","latitude|longitude":"39.72|-86.15"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62ee"},"yelp_id":{"$oid":"5cd7129cfd64d7121c37f0d9"},"kaggle_id":"AVwcqXAlIN2L1WUfnfe4","restraunt name":"McDonald's","latitude|longitude":"42.45|-85.66"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62ef"},"yelp_id":{"$oid":"5cd7129cfd64d7121c37f0da"},"kaggle_id":"AVwcvsUq_7pvs4fzygge","restraunt name":"Wendy's","latitude|longitude":"42.25|-85.53"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62f0"},"yelp_id":{"$oid":"5cd7129dfd64d7121c37f0db"},"kaggle_id":"AVwcxJFp_7pvs4fzywSt","restraunt name":"White Castle","latitude|longitude":"42.41|-82.94"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62f1"},"yelp_id":{"$oid":"5cd7129efd64d7121c37f0dc"},"kaggle_id":"AV0ZGXAS-gnIPe8DVcod","restraunt name":"Culver's","latitude|longitude":"38.33|-85.75"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62f2"},"yelp_id":{"$oid":"5cd7129efd64d7121c37f0dd"},"kaggle_id":"AVwc8jDokufWRAb50sq2","restraunt name":"Nick's Gyros","latitude|longitude":"41.78|-87.67"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62f3"},"yelp_id":{"$oid":"5cd7129ffd64d7121c37f0de"},"kaggle_id":"AVwcoK2yByjofQCxgZ53","restraunt name":"90 Miles Cuban Café","latitude|longitude":"41.94|-87.69"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62f4"},"yelp_id":{"$oid":"5cd712a0fd64d7121c37f0df"},"kaggle_id":"AVwc86sp_7pvs4fz0tFH","restraunt name":"McDonald's","latitude|longitude":"41.95|-87.77"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62f5"},"yelp_id":{"$oid":"5cd712a0fd64d7121c37f0e0"},"kaggle_id":"AVwdZgEsIN2L1WUfvZsO","restraunt name":"McDonald's","latitude|longitude":"42.23|-83.23"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62f6"},"yelp_id":{"$oid":"5cd712a1fd64d7121c37f0e1"},"kaggle_id":"AV1l0o_pa4HuVbed7zAJ","restraunt name":"Taco Bell","latitude|longitude":"39.66|-87.43"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62f7"},"yelp_id":{"$oid":"5cd712a1fd64d7121c37f0e2"},"kaggle_id":"AVwcvhiJkufWRAb5yiVv","restraunt name":"McDonald's","latitude|longitude":"38.72|-90.12"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62f8"},"yelp_id":{"$oid":"5cd712a2fd64d7121c37f0e3"},"kaggle_id":"AVwdz74TkufWRAb59dsH","restraunt name":"Arby's","latitude|longitude":"42.55|-82.96"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62f9"},"yelp_id":{"$oid":"5cd712a3fd64d7121c37f0e4"},"kaggle_id":"AVwdMSn_kufWRAb53RMN","restraunt name":"McDonald's","latitude|longitude":"41.83|-88.06"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62fa"},"yelp_id":{"$oid":"5cd712a3fd64d7121c37f0e5"},"kaggle_id":"AVweAyq__7pvs4fz_QeR","restraunt name":"Boston Market","latitude|longitude":"41.77|-88.21"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62fb"},"yelp_id":{"$oid":"5cd712a4fd64d7121c37f0e6"},"kaggle_id":"AVwegc6K_7pvs4fzDpF3","restraunt name":"Chipotle Mexican Grill","latitude|longitude":"41.84|-88.03"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62fc"},"yelp_id":{"$oid":"5cd712a4fd64d7121c37f0e7"},"kaggle_id":"AVwePW1N_7pvs4fzBQiQ","restraunt name":"Rally's","latitude|longitude":"42.74|-84.55"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62fd"},"yelp_id":{"$oid":"5cd712a5fd64d7121c37f0e8"},"kaggle_id":"AVwchjSt_7pvs4fzwB5c","restraunt name":"Dairy Queen","latitude|longitude":"39.99|-86.13"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62fe"},"yelp_id":{"$oid":"5cd712a5fd64d7121c37f0e9"},"kaggle_id":"AVweZuwBByjofQCxx3_S","restraunt name":"Popeyes Louisiana Kitchen","latitude|longitude":"39.96|-86.12"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc62ff"},"yelp_id":{"$oid":"5cd712a6fd64d7121c37f0ea"},"kaggle_id":"AV1c2m4eRxPSIh2RYlYb","restraunt name":"Taco Bell","latitude|longitude":"40.42|-86.91"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6300"},"yelp_id":{"$oid":"5cd712a6fd64d7121c37f0eb"},"kaggle_id":"AVwc98ZFkufWRAb506lC","restraunt name":"Rally's","latitude|longitude":"40.49|-86.16"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6301"},"yelp_id":{"$oid":"5cd712a7fd64d7121c37f0ec"},"kaggle_id":"AVzA92KAFcQ3k02bBZ9j","restraunt name":"Jimmy John's","latitude|longitude":"42.91|-85.58"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6302"},"yelp_id":{"$oid":"5cd712a8fd64d7121c37f0ee"},"kaggle_id":"AVwcqfRpkufWRAb5xrR4","restraunt name":"Kosta's Gyros","latitude|longitude":"42.14|-88.03"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6303"},"yelp_id":{"$oid":"5cd712a9fd64d7121c37f0f0"},"kaggle_id":"AVwdGzK1IN2L1WUfsRQ5","restraunt name":"McDonald's","latitude|longitude":"40.77|-89.66"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6304"},"yelp_id":{"$oid":"5cd712abfd64d7121c37f0f2"},"kaggle_id":"AVwdfie6kufWRAb56bnm","restraunt name":"Subway","latitude|longitude":"40.46|-87.69"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6305"},"yelp_id":{"$oid":"5cd712abfd64d7121c37f0f3"},"kaggle_id":"AVwd6JqQByjofQCxtkJn","restraunt name":"McDonald's","latitude|longitude":"42.5|-83.3"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6306"},"yelp_id":{"$oid":"5cd712acfd64d7121c37f0f4"},"kaggle_id":"AVwc2hDjIN2L1WUfpl-I","restraunt name":"McDonald's","latitude|longitude":"42.2|-83.15"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6307"},"yelp_id":{"$oid":"5cd712adfd64d7121c37f0f5"},"kaggle_id":"AVwcmbNa_7pvs4fzw6Hg","restraunt name":"Jimmy John's","latitude|longitude":"42.51|-83.05"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6308"},"yelp_id":{"$oid":"5cd712adfd64d7121c37f0f6"},"kaggle_id":"AVwc7eMJByjofQCxju0d","restraunt name":"KFC","latitude|longitude":"41.64|-88.12"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc6309"},"yelp_id":{"$oid":"5cd712aefd64d7121c37f0f7"},"kaggle_id":"AVwco35c_7pvs4fzxWCm","restraunt name":"White Castle","latitude|longitude":"41.71|-88.3"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc630a"},"yelp_id":{"$oid":"5cd712aefd64d7121c37f0f8"},"kaggle_id":"AVwdMvOw_7pvs4fz3UBA","restraunt name":"Wendy's","latitude|longitude":"41.98|-88.21"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc630b"},"yelp_id":{"$oid":"5cd712affd64d7121c37f0f9"},"kaggle_id":"AVwdnmnbByjofQCxq5hh","restraunt name":"Checkers","latitude|longitude":"41.93|-83.41"}
+{"_id":{"$oid":"5cda1cadfd64d72214bc630c"},"yelp_id":{"$oid":"5cd712affd64d7121c37f0fa"},"kaggle_id":"AVzThA1GLD2H7whiWglk","restraunt name":"McDonald's","latitude|longitude":"41.96|-83.67"}
